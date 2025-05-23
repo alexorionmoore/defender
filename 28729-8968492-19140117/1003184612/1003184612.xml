@@ -1,0 +1,96 @@
+<RECORD>
+  <Version>Global_Schema_v4.0.xsd</Version>
+  <MinorVersion>8</MinorVersion>
+  <ParentInfo>
+    <PublicationID>28729</PublicationID>
+    <GroupingID GroupingDepth="1">6151029</GroupingID>
+  </ParentInfo>
+  <ObjectInfo>
+    <RecInfo>
+      <GlobalObjectID>493320143</GlobalObjectID>
+      <ObjectRevisions>
+        <ObjectRevision>
+          <RevisionNumber>1</RevisionNumber>
+          <InternalSource>HNP</InternalSource>
+          <UpdatedBy>eFeeds</UpdatedBy>
+          <UpdatedDate>20100705203027</UpdatedDate>
+          <Note NoteType="RawFilename">.HNP_BF_201005181145440000005954-mstar_68420_1914_20100430_0010.xml.gz.unc</Note>
+        </ObjectRevision>
+      </ObjectRevisions>
+      <CreatedDate>20100705203027</CreatedDate>
+      <CreatedBy>eFeeds</CreatedBy>
+      <LastLegacyUpdateTime>20060929141022</LastLegacyUpdateTime>
+    </RecInfo>
+    <DocInternalGrouping GroupType="PqXsearch">
+      <GroupName>mstar_68420_1914_20100430</GroupName>
+    </DocInternalGrouping>
+    <DocInternalGrouping GroupType="PqDocmfg">
+      <GroupName>PQID_HNP</GroupName>
+    </DocInternalGrouping>
+    <ObjectType ObjectTypeOrigin="Publisher">editorial_article</ObjectType>
+    <ObjectType ObjectTypeOrigin="mstar">Editorial</ObjectType>
+    <ObjectType ObjectTypeOrigin="mstar">Commentary</ObjectType>
+    <ObjectRollupType>Articles - All Types</ObjectRollupType>
+    <Title>COL. FRANKLIN A. DENNISON</Title>
+    <NumericDate>19140117</NumericDate>
+    <StartDate>19140117</StartDate>
+    <EndDate>19140117</EndDate>
+    <AlphaDate>Jan 17, 1914</AlphaDate>
+    <PageCount>1</PageCount>
+    <Language>
+      <RawLang>English</RawLang>
+    </Language>
+    <Language IsPrimary="true">
+      <ISO>
+        <ISOCode>ENG</ISOCode>
+        <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+      </ISO>
+    </Language>
+    <Copyright>
+      <CopyrightData>Copyright Real Times, Inc. Jan 17, 1914</CopyrightData>
+    </Copyright>
+    <PrintLocation>
+      <StartPage>4</StartPage>
+      <Pagination>4</Pagination>
+    </PrintLocation>
+    <ObjectIDs>
+      <ObjectID IDOrigin="HNP" IDType="DOCID">1003184612</ObjectID>
+      <ObjectID IDOrigin="HNP" IDType="PCID">8968492</ObjectID>
+      <ObjectID IDOrigin="HNP" IDType="PMID">68420</ObjectID>
+    </ObjectIDs>
+    <TextInfo>
+      <HiddenText HTMLContent="true" Sid="HNP" Date="20060929" Time="140015"><![CDATA[
+          <html>
+            <head>
+              <meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/>
+              <title/>
+            </head>
+            <body>
+              <p>
+COL. FRANKLIN A. DENNISON.
+</p>
+              <p>
+Uy a  vole of the officers of the Eighth Illinois .National (, Mnj. Franklin A. Dennison was elected colonel of this regiment, an honor that this splendid soldier richly deserves. Col. Dennison is a man In every sense of the word., honest and' upright in nil his dealings, keen and* alert as to things concerning the betterment of his race, a lawyer who has made an enviable reputation at the bar and an  who has made a record second to none. Thoroughly familiar witty the intricate workings of this particular .military organization, having been almost from its inception connected with it, his fitness for the position is beyond question, and the trust and confidence placed in him is evidenced by unanimous election for the office. In assuming command of the famous Eighth Regiment. Col. Dennison finds that his predecessor has done much toward blazing the way for the new armory ; building, but much remains to be ! done as the regiment is comparative- : ly homeless and the new colonel will undoubtedly push to early completion this project. Ev^ry man should and I doubtless will /loyally support his ; leader, and Thr/ Defender speaks for its many /ers when it extends hearty congratulations to Col./         A. DennVson. " ;;.\
+</p>
+            </body>
+          </html>
+]]></HiddenText>
+    </TextInfo>
+  </ObjectInfo>
+  <LegacyData>
+    <PQ>
+      <docdt>
+        <manuhists>
+          <manuhist>20060929 141022 SIS ftl_20060929_14101700_74_74 PQ16.8 ADM</manuhist>
+          <manuhist>20100507 133953 SIS mstar_68420_1914_20100430_9594_9594 MstarTrans $Revision 2.3 $</manuhist>
+        </manuhists>
+        <doc-create>20060929</doc-create>
+        <doc-modify>20060929</doc-modify>
+      </docdt>
+      <derdt>
+        <word-count>214</word-count>
+        <dmlversion>PQ6.18/a</dmlversion>
+      </derdt>
+    </PQ>
+  </LegacyData>
+</RECORD>

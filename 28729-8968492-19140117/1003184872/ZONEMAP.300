@@ -1,0 +1,36 @@
+[Document]
+Pages = 1
+PageThread = 5
+Zones = 3
+LastZoneID = 3
+SpecialDocumentFlag = 0
+DocumentID = 1003184872
+PageCollectionID = 8968492
+
+[Zone:1]
+ZoneType = ARTICLE_ZONE
+ZoneSequence = 1
+ZonePage = 5
+ZoneLeftCoord = 2084
+ZoneRightCoord = 2561
+ZoneTopCoord = 2376
+ZoneBottomCoord = 2440
+
+[Zone:2]
+ZoneType = ARTICLE_ZONE
+ZoneSequence = 2
+ZonePage = 5
+ZoneLeftCoord = 2027
+ZoneRightCoord = 2621
+ZoneTopCoord = 2458
+ZoneBottomCoord = 2909
+
+[Zone:3]
+ZoneType = ARTICLE_ZONE
+ZoneSequence = 3
+ZonePage = 5
+ZoneLeftCoord = 2025
+ZoneRightCoord = 2605
+ZoneTopCoord = 2918
+ZoneBottomCoord = 3022
+

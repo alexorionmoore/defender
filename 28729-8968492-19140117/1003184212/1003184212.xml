@@ -1,0 +1,99 @@
+<RECORD>
+  <Version>Global_Schema_v4.0.xsd</Version>
+  <MinorVersion>8</MinorVersion>
+  <ParentInfo>
+    <PublicationID>28729</PublicationID>
+    <GroupingID GroupingDepth="1">6151029</GroupingID>
+  </ParentInfo>
+  <ObjectInfo>
+    <RecInfo>
+      <GlobalObjectID>493257626</GlobalObjectID>
+      <ObjectRevisions>
+        <ObjectRevision>
+          <RevisionNumber>1</RevisionNumber>
+          <InternalSource>HNP</InternalSource>
+          <UpdatedBy>eFeeds</UpdatedBy>
+          <UpdatedDate>20100705202449</UpdatedDate>
+          <Note NoteType="RawFilename">.HNP_BF_201005181145440000005954-mstar_68420_1914_20100430_0010.xml.gz.unc</Note>
+        </ObjectRevision>
+      </ObjectRevisions>
+      <CreatedDate>20100705202449</CreatedDate>
+      <CreatedBy>eFeeds</CreatedBy>
+      <LastLegacyUpdateTime>20060929141020</LastLegacyUpdateTime>
+    </RecInfo>
+    <DocInternalGrouping GroupType="PqXsearch">
+      <GroupName>mstar_68420_1914_20100430</GroupName>
+    </DocInternalGrouping>
+    <DocInternalGrouping GroupType="PqDocmfg">
+      <GroupName>PQID_HNP</GroupName>
+    </DocInternalGrouping>
+    <ObjectType ObjectTypeOrigin="Publisher">article</ObjectType>
+    <ObjectType ObjectTypeOrigin="mstar">Feature</ObjectType>
+    <ObjectType ObjectTypeOrigin="mstar">Article</ObjectType>
+    <ObjectRollupType>Articles - All Types</ObjectRollupType>
+    <Title>Article 2 -- No Title</Title>
+    <NumericDate>19140117</NumericDate>
+    <StartDate>19140117</StartDate>
+    <EndDate>19140117</EndDate>
+    <AlphaDate>Jan 17, 1914</AlphaDate>
+    <PageCount>1</PageCount>
+    <Language>
+      <RawLang>English</RawLang>
+    </Language>
+    <Language IsPrimary="true">
+      <ISO>
+        <ISOCode>ENG</ISOCode>
+        <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+      </ISO>
+    </Language>
+    <Copyright>
+      <CopyrightData>Copyright Real Times, Inc. Jan 17, 1914</CopyrightData>
+    </Copyright>
+    <PrintLocation>
+      <StartPage>2</StartPage>
+      <Pagination>2</Pagination>
+    </PrintLocation>
+    <ObjectIDs>
+      <ObjectID IDOrigin="HNP" IDType="DOCID">1003184212</ObjectID>
+      <ObjectID IDOrigin="HNP" IDType="PCID">8968492</ObjectID>
+      <ObjectID IDOrigin="HNP" IDType="PMID">68420</ObjectID>
+    </ObjectIDs>
+    <TextInfo>
+      <HiddenText HTMLContent="true" Sid="HNP" Date="20060929" Time="140014"><![CDATA[
+          <html>
+            <head>
+              <meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/>
+              <title/>
+            </head>
+            <body>
+              <p>
+^.CCCj^ish W
+</p>
+              <p>
+\ I would ad' rise papering      room with a seif-to led paper, light \an In color as near to the tint of sunshine as you can gel. Your shades should, of course, mat :h those tn use all over the house. Tpen make your drapery curtains of tan art scrimm, just a deep hemstitched hem at the bottom, and allow them to hang straight. Stain the woodwork white and give it several coats, finishing oft with an enamel or egg-shell finish. For the center of the room have an "art "square" made. This may be woven as the rag rugs are or crocheted or knitted. I prefer the woven rugs and beautiful solid effects with handsome borders now possible. Try to have the rose color  in rug and articles of furnishing for the bureau and chiffonier, pillows and couch cover. With white enamel furniture, the north room will be far from a cold, repellant room, and will be a transplanted sunshiny
+</p>
+              <p>
+corner. - Exchange.
+</p>
+            </body>
+          </html>
+]]></HiddenText>
+    </TextInfo>
+  </ObjectInfo>
+  <LegacyData>
+    <PQ>
+      <docdt>
+        <manuhists>
+          <manuhist>20060929 141020 SIS ftl_20060929_14101700_34_34 PQ16.8 ADM</manuhist>
+          <manuhist>20100507 133952 SIS mstar_68420_1914_20100430_9554_9554 MstarTrans $Revision 2.3 $</manuhist>
+        </manuhists>
+        <doc-create>20060929</doc-create>
+        <doc-modify>20060929</doc-modify>
+      </docdt>
+      <derdt>
+        <word-count>166</word-count>
+        <dmlversion>PQ6.18/a</dmlversion>
+      </derdt>
+    </PQ>
+  </LegacyData>
+</RECORD>

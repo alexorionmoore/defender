@@ -1,0 +1,103 @@
+<RECORD>
+  <Version>Global_Schema_v4.0.xsd</Version>
+  <MinorVersion>8</MinorVersion>
+  <ParentInfo>
+    <PublicationID>28729</PublicationID>
+    <GroupingID GroupingDepth="1">6151029</GroupingID>
+  </ParentInfo>
+  <ObjectInfo>
+    <RecInfo>
+      <GlobalObjectID>493319677</GlobalObjectID>
+      <ObjectRevisions>
+        <ObjectRevision>
+          <RevisionNumber>1</RevisionNumber>
+          <InternalSource>HNP</InternalSource>
+          <UpdatedBy>eFeeds</UpdatedBy>
+          <UpdatedDate>20100705203024</UpdatedDate>
+          <Note NoteType="RawFilename">.HNP_BF_201005181145440000005954-mstar_68420_1914_20100430_0010.xml.gz.unc</Note>
+        </ObjectRevision>
+      </ObjectRevisions>
+      <CreatedDate>20100705203024</CreatedDate>
+      <CreatedBy>eFeeds</CreatedBy>
+      <LastLegacyUpdateTime>20060929141020</LastLegacyUpdateTime>
+    </RecInfo>
+    <DocInternalGrouping GroupType="PqXsearch">
+      <GroupName>mstar_68420_1914_20100430</GroupName>
+    </DocInternalGrouping>
+    <DocInternalGrouping GroupType="PqDocmfg">
+      <GroupName>PQID_HNP</GroupName>
+    </DocInternalGrouping>
+    <ObjectType ObjectTypeOrigin="Publisher">article</ObjectType>
+    <ObjectType ObjectTypeOrigin="mstar">Feature</ObjectType>
+    <ObjectType ObjectTypeOrigin="mstar">Article</ObjectType>
+    <ObjectRollupType>Articles - All Types</ObjectRollupType>
+    <Title>WALTERS A. M. E. ZION CHURCH</Title>
+    <SubTitle>Corner 38th and Dearborn Streets Rev. H. J. Callis, Pastor</SubTitle>
+    <NumericDate>19140117</NumericDate>
+    <StartDate>19140117</StartDate>
+    <EndDate>19140117</EndDate>
+    <AlphaDate>Jan 17, 1914</AlphaDate>
+    <PageCount>1</PageCount>
+    <Language>
+      <RawLang>English</RawLang>
+    </Language>
+    <Language IsPrimary="true">
+      <ISO>
+        <ISOCode>ENG</ISOCode>
+        <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+      </ISO>
+    </Language>
+    <Copyright>
+      <CopyrightData>Copyright Real Times, Inc. Jan 17, 1914</CopyrightData>
+    </Copyright>
+    <PrintLocation>
+      <StartPage>2</StartPage>
+      <Pagination>2</Pagination>
+    </PrintLocation>
+    <ObjectIDs>
+      <ObjectID IDOrigin="HNP" IDType="DOCID">1003184192</ObjectID>
+      <ObjectID IDOrigin="HNP" IDType="PCID">8968492</ObjectID>
+      <ObjectID IDOrigin="HNP" IDType="PMID">68420</ObjectID>
+    </ObjectIDs>
+    <TextInfo>
+      <HiddenText HTMLContent="true" Sid="HNP" Date="20060929" Time="140014"><![CDATA[
+          <html>
+            <head>
+              <meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/>
+              <title/>
+            </head>
+            <body>
+              <p>
+WALTERS A. M. E. ZION CHURCH.
+</p>
+              <p>
+Corner 38th and Dearborn Streets.
+</p>
+              <p>
+Rev. H. J. Callis Pastor.
+</p>
+              <p>
+Our special revival services arc continuing to meet with great . Rev. S. S. Scisson, who is assisting us in this effort, has been preaching stirring gospel sermons and his discourses have been meeting with great favor. During our meetings several persons have been converted and reclaimed to the faith. Some few have seen fit to cast their lots in with us and have connected themselves with our church. The attendance and Interest has kept up in our evening services continually. Our evening services are beginning at eight o clock and are preceded by a half hour s service of prayer and praise. The services for Sunday will be as usual and it is hoped that every member of the church will make a special effort and sacrifice to attend the meetings and bring some one else with them. After two weeks of special religious services in which our attention has been turned wholly to things spiritual we should have such meetings Sunday as should long be remembered for the inspiration and encouragement of believers and for the salvation of the unsaved.
+</p>
+            </body>
+          </html>
+]]></HiddenText>
+    </TextInfo>
+  </ObjectInfo>
+  <LegacyData>
+    <PQ>
+      <docdt>
+        <manuhists>
+          <manuhist>20060929 141020 SIS ftl_20060929_14101700_32_32 PQ16.8 ADM</manuhist>
+          <manuhist>20100507 133952 SIS mstar_68420_1914_20100430_9552_9552 MstarTrans $Revision 2.3 $</manuhist>
+        </manuhists>
+        <doc-create>20060929</doc-create>
+        <doc-modify>20060929</doc-modify>
+      </docdt>
+      <derdt>
+        <word-count>198</word-count>
+        <dmlversion>PQ6.18/a</dmlversion>
+      </derdt>
+    </PQ>
+  </LegacyData>
+</RECORD>

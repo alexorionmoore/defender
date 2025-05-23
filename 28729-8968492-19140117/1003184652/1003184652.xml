@@ -1,0 +1,130 @@
+<RECORD>
+  <Version>Global_Schema_v4.0.xsd</Version>
+  <MinorVersion>8</MinorVersion>
+  <ParentInfo>
+    <PublicationID>28729</PublicationID>
+    <GroupingID GroupingDepth="1">6151029</GroupingID>
+  </ParentInfo>
+  <ObjectInfo>
+    <RecInfo>
+      <GlobalObjectID>493440618</GlobalObjectID>
+      <ObjectRevisions>
+        <ObjectRevision>
+          <RevisionNumber>1</RevisionNumber>
+          <InternalSource>HNP</InternalSource>
+          <UpdatedBy>eFeeds</UpdatedBy>
+          <UpdatedDate>20100705204204</UpdatedDate>
+          <Note NoteType="RawFilename">.HNP_BF_201005181145440000005954-mstar_68420_1914_20100430_0010.xml.gz.unc</Note>
+        </ObjectRevision>
+      </ObjectRevisions>
+      <CreatedDate>20100705204204</CreatedDate>
+      <CreatedBy>eFeeds</CreatedBy>
+      <LastLegacyUpdateTime>20060929141023</LastLegacyUpdateTime>
+    </RecInfo>
+    <DocInternalGrouping GroupType="PqXsearch">
+      <GroupName>mstar_68420_1914_20100430</GroupName>
+    </DocInternalGrouping>
+    <DocInternalGrouping GroupType="PqDocmfg">
+      <GroupName>PQID_HNP</GroupName>
+    </DocInternalGrouping>
+    <ObjectType ObjectTypeOrigin="Publisher">article</ObjectType>
+    <ObjectType ObjectTypeOrigin="mstar">Feature</ObjectType>
+    <ObjectType ObjectTypeOrigin="mstar">Article</ObjectType>
+    <ObjectRollupType>Articles - All Types</ObjectRollupType>
+    <Title>HOW KENTUCKY IS GOVERNED</Title>
+    <SubTitle>Praise State Normal Institute at Frankfort, Ky.</SubTitle>
+    <NumericDate>19140117</NumericDate>
+    <StartDate>19140117</StartDate>
+    <EndDate>19140117</EndDate>
+    <AlphaDate>Jan 17, 1914</AlphaDate>
+    <PageCount>1</PageCount>
+    <Language>
+      <RawLang>English</RawLang>
+    </Language>
+    <Language IsPrimary="true">
+      <ISO>
+        <ISOCode>ENG</ISOCode>
+        <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+      </ISO>
+    </Language>
+    <Copyright>
+      <CopyrightData>Copyright Real Times, Inc. Jan 17, 1914</CopyrightData>
+    </Copyright>
+    <PrintLocation>
+      <StartPage>4</StartPage>
+      <Pagination>4</Pagination>
+    </PrintLocation>
+    <ObjectIDs>
+      <ObjectID IDOrigin="HNP" IDType="DOCID">1003184652</ObjectID>
+      <ObjectID IDOrigin="HNP" IDType="PCID">8968492</ObjectID>
+      <ObjectID IDOrigin="HNP" IDType="PMID">68420</ObjectID>
+    </ObjectIDs>
+    <DateLine>Frankfort, Ky., Jan. 16.</DateLine>
+    <Contributors>
+      <Contributor ContribRole="Author" ContribOrder="1">
+        <FirstName IsNormalized="true" ContribOrigin="AuthorNormalization">Hardin</FirstName>
+        <PersonName IsNormalized="true" ContribOrigin="AuthorNormalization">Hardin Tolbert</PersonName>
+        <LastName IsNormalized="true" ContribOrigin="AuthorNormalization">Tolbert</LastName>
+        <OriginalForm ContribOrigin="pqauth">Hardin Tolbert</OriginalForm>
+      </Contributor>
+    </Contributors>
+    <Abstract WordCount="51" AbstractType="Short" Sid="HNP" Date="20060929" Time="140015">
+      <AbsText HTMLContent="true"><![CDATA[
+          <html>
+            <head>
+              <meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/>
+              <title/>
+            </head>
+            <body>
+              <p>
+Frankfort, Ky., Jan. 16.--The Sixty-sixth annual session of the Kentucky legislature is in session at the beautiful new state capitol on the South Side. The enactment of a hill that Provided for each member would get twice as much as in Previous years were the means of bringing as usual...
+</p>
+            </body>
+          </html>
+]]></AbsText>
+    </Abstract>
+    <TextInfo>
+      <HiddenText HTMLContent="true" Sid="HNP" Date="20060929" Time="140015"><![CDATA[
+          <html>
+            <head>
+              <meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/>
+              <title/>
+            </head>
+            <body>
+              <p>
+I HOW KENTUCKY ( IS GOVERNED
+</p>
+              <p>
+Praise        Normal Institute at
+</p>
+              <p>
+By Hardin Tolbert.
+</p>
+              <p>
+Frankfort.
+</p>
+              <p>
+I the best
+</p>
+            </body>
+          </html>
+]]></HiddenText>
+    </TextInfo>
+  </ObjectInfo>
+  <LegacyData>
+    <PQ>
+      <docdt>
+        <manuhists>
+          <manuhist>20060929 141023 SIS ftl_20060929_14101700_78_78 PQ16.8 ADM</manuhist>
+          <manuhist>20100507 133953 SIS mstar_68420_1914_20100430_9598_9598 MstarTrans $Revision 2.3 $</manuhist>
+        </manuhists>
+        <doc-create>20060929</doc-create>
+        <doc-modify>20060929</doc-modify>
+      </docdt>
+      <derdt>
+        <word-count>17</word-count>
+        <dmlversion>PQ6.18/a</dmlversion>
+      </derdt>
+    </PQ>
+  </LegacyData>
+</RECORD>

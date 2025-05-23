@@ -1,0 +1,96 @@
+<RECORD>
+  <Version>Global_Schema_v4.0.xsd</Version>
+  <MinorVersion>8</MinorVersion>
+  <ParentInfo>
+    <PublicationID>28729</PublicationID>
+    <GroupingID GroupingDepth="1">6151029</GroupingID>
+  </ParentInfo>
+  <ObjectInfo>
+    <RecInfo>
+      <GlobalObjectID>493206025</GlobalObjectID>
+      <ObjectRevisions>
+        <ObjectRevision>
+          <RevisionNumber>1</RevisionNumber>
+          <InternalSource>HNP</InternalSource>
+          <UpdatedBy>eFeeds</UpdatedBy>
+          <UpdatedDate>20100705201957</UpdatedDate>
+          <Note NoteType="RawFilename">.HNP_BF_201005181145440000005954-mstar_68420_1914_20100430_0010.xml.gz.unc</Note>
+        </ObjectRevision>
+      </ObjectRevisions>
+      <CreatedDate>20100705201957</CreatedDate>
+      <CreatedBy>eFeeds</CreatedBy>
+      <LastLegacyUpdateTime>20060929141020</LastLegacyUpdateTime>
+    </RecInfo>
+    <DocInternalGrouping GroupType="PqXsearch">
+      <GroupName>mstar_68420_1914_20100430</GroupName>
+    </DocInternalGrouping>
+    <DocInternalGrouping GroupType="PqDocmfg">
+      <GroupName>PQID_HNP</GroupName>
+    </DocInternalGrouping>
+    <ObjectType ObjectTypeOrigin="Publisher">article</ObjectType>
+    <ObjectType ObjectTypeOrigin="mstar">Feature</ObjectType>
+    <ObjectType ObjectTypeOrigin="mstar">Article</ObjectType>
+    <ObjectRollupType>Articles - All Types</ObjectRollupType>
+    <Title>To Break Up a Cold</Title>
+    <NumericDate>19140117</NumericDate>
+    <StartDate>19140117</StartDate>
+    <EndDate>19140117</EndDate>
+    <AlphaDate>Jan 17, 1914</AlphaDate>
+    <PageCount>1</PageCount>
+    <Language>
+      <RawLang>English</RawLang>
+    </Language>
+    <Language IsPrimary="true">
+      <ISO>
+        <ISOCode>ENG</ISOCode>
+        <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+      </ISO>
+    </Language>
+    <Copyright>
+      <CopyrightData>Copyright Real Times, Inc. Jan 17, 1914</CopyrightData>
+    </Copyright>
+    <PrintLocation>
+      <StartPage>2</StartPage>
+      <Pagination>2</Pagination>
+    </PrintLocation>
+    <ObjectIDs>
+      <ObjectID IDOrigin="HNP" IDType="DOCID">1003184222</ObjectID>
+      <ObjectID IDOrigin="HNP" IDType="PCID">8968492</ObjectID>
+      <ObjectID IDOrigin="HNP" IDType="PMID">68420</ObjectID>
+    </ObjectIDs>
+    <TextInfo>
+      <HiddenText HTMLContent="true" Sid="HNP" Date="20060929" Time="140014"><![CDATA[
+          <html>
+            <head>
+              <meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/>
+              <title/>
+            </head>
+            <body>
+              <p>
+To Break Up a Cold.
+</p>
+              <p>
+The hydropathic treatment of a cold in the head is -moro reliable than any other one which scarcely requires the aid of a physician. It is as follows: In the morning after rising and at night before retiring wash the feet and legs as high up as the knees in cold water, then rub them with a rough towel and massage them till the skin is red and glowing. In addition to this, snuff tepid water up the nose frequently during the day and sip with a teaspoon a glassful as hot as ~. can be borne an hour before each . meal and at bedtime. A few days is often quite sufficient for simple cases and obstinate ones yield if the treatment is prolonged. No medicines are required. If taken in the first stages of the disease a cold 1b broken up  which might  become a Bevere case of bronchitis lasting many days or weeks.
+</p>
+            </body>
+          </html>
+]]></HiddenText>
+    </TextInfo>
+  </ObjectInfo>
+  <LegacyData>
+    <PQ>
+      <docdt>
+        <manuhists>
+          <manuhist>20060929 141020 SIS ftl_20060929_14101700_35_35 PQ16.8 ADM</manuhist>
+          <manuhist>20100507 133952 SIS mstar_68420_1914_20100430_9555_9555 MstarTrans $Revision 2.3 $</manuhist>
+        </manuhists>
+        <doc-create>20060929</doc-create>
+        <doc-modify>20060929</doc-modify>
+      </docdt>
+      <derdt>
+        <word-count>161</word-count>
+        <dmlversion>PQ6.18/a</dmlversion>
+      </derdt>
+    </PQ>
+  </LegacyData>
+</RECORD>

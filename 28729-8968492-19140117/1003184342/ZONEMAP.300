@@ -1,0 +1,27 @@
+[Document]
+Pages = 1
+PageThread = 3
+Zones = 2
+LastZoneID = 2
+SpecialDocumentFlag = 0
+DocumentID = 1003184342
+PageCollectionID = 8968492
+
+[Zone:1]
+ZoneType = ARTICLE_ZONE
+ZoneSequence = 1
+ZonePage = 3
+ZoneLeftCoord = 2644
+ZoneRightCoord = 3186
+ZoneTopCoord = 3996
+ZoneBottomCoord = 4038
+
+[Zone:2]
+ZoneType = ARTICLE_ZONE
+ZoneSequence = 2
+ZonePage = 3
+ZoneLeftCoord = 2613
+ZoneRightCoord = 3222
+ZoneTopCoord = 4036
+ZoneBottomCoord = 4463
+

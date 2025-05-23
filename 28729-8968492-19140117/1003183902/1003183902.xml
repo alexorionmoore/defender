@@ -1,0 +1,117 @@
+<RECORD>
+  <Version>Global_Schema_v4.0.xsd</Version>
+  <MinorVersion>8</MinorVersion>
+  <ParentInfo>
+    <PublicationID>28729</PublicationID>
+    <GroupingID GroupingDepth="1">6151029</GroupingID>
+  </ParentInfo>
+  <ObjectInfo>
+    <RecInfo>
+      <GlobalObjectID>493258842</GlobalObjectID>
+      <ObjectRevisions>
+        <ObjectRevision>
+          <RevisionNumber>1</RevisionNumber>
+          <InternalSource>HNP</InternalSource>
+          <UpdatedBy>eFeeds</UpdatedBy>
+          <UpdatedDate>20100705202456</UpdatedDate>
+          <Note NoteType="RawFilename">.HNP_BF_201005181145440000005954-mstar_68420_1914_20100430_0010.xml.gz.unc</Note>
+        </ObjectRevision>
+      </ObjectRevisions>
+      <CreatedDate>20100705202456</CreatedDate>
+      <CreatedBy>eFeeds</CreatedBy>
+      <LastLegacyUpdateTime>20060929141018</LastLegacyUpdateTime>
+    </RecInfo>
+    <DocInternalGrouping GroupType="PqXsearch">
+      <GroupName>mstar_68420_1914_20100430</GroupName>
+    </DocInternalGrouping>
+    <DocInternalGrouping GroupType="PqDocmfg">
+      <GroupName>PQID_HNP</GroupName>
+    </DocInternalGrouping>
+    <ObjectType ObjectTypeOrigin="Publisher">front_page</ObjectType>
+    <ObjectType ObjectTypeOrigin="mstar">Front Page/Cover Story</ObjectType>
+    <ObjectRollupType>Articles - All Types</ObjectRollupType>
+    <Title>THE UNITED CHARITIES MAKES APPEAL</Title>
+    <SubTitle>You Are Asked to Contribute Something to the Cause of Helping Chicago&apos;s Poor--Read the Full Statement of Facts and Figures of Those in Poverty Now</SubTitle>
+    <NumericDate>19140117</NumericDate>
+    <StartDate>19140117</StartDate>
+    <EndDate>19140117</EndDate>
+    <AlphaDate>Jan 17, 1914</AlphaDate>
+    <PageCount>1</PageCount>
+    <Language>
+      <RawLang>English</RawLang>
+    </Language>
+    <Language IsPrimary="true">
+      <ISO>
+        <ISOCode>ENG</ISOCode>
+        <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+      </ISO>
+    </Language>
+    <Copyright>
+      <CopyrightData>Copyright Real Times, Inc. Jan 17, 1914</CopyrightData>
+    </Copyright>
+    <PrintLocation>
+      <StartPage>1</StartPage>
+      <Pagination>1</Pagination>
+    </PrintLocation>
+    <ObjectIDs>
+      <ObjectID IDOrigin="HNP" IDType="DOCID">1003183902</ObjectID>
+      <ObjectID IDOrigin="HNP" IDType="PCID">8968492</ObjectID>
+      <ObjectID IDOrigin="HNP" IDType="PMID">68420</ObjectID>
+    </ObjectIDs>
+    <Abstract WordCount="51" AbstractType="Short" Sid="HNP" Date="20060929" Time="140012">
+      <AbsText HTMLContent="true"><![CDATA[
+          <html>
+            <head>
+              <meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/>
+              <title/>
+            </head>
+            <body>
+              <p>
+More persons are suffering the sting of poverty this winter than ever before, according to reports of the United Charities of Chicago. Daring the fiscal year ending October 1, 1913, the United Charities befriended one out of every 32 persons living in Chicago, while only one person out of every...
+</p>
+            </body>
+          </html>
+]]></AbsText>
+    </Abstract>
+    <TextInfo>
+      <HiddenText HTMLContent="true" Sid="HNP" Date="20060929" Time="140012"><![CDATA[
+          <html>
+            <head>
+              <meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/>
+              <title/>
+            </head>
+            <body>
+              <p>
+THE UNITED CHARITIES MAKES APPEAL
+</p>
+              <p>
+You Are Asked to Contribute Something to the Cause of Helping Chicago's Poor - Read the Full Statement of Facts and Figures of Those in Poverty Now.
+</p>
+              <p>
+More pi: sons are suffering the stint; of poverty this winter than ever before.  to reports of the United .('-s of Chii-. During the         I'liiliiiR October 1, 1!U3, the I'nilud Clinrilies befriended one out or t-vi i-.v ::-J  living in Chicago .1 only one         nut o)'
+</p>
+              <p>
+::iL' contributed lo the support of the work. An appeal lo the public for emerging fluids was Issued by the directors oV tin: United Charities Monday week. The appeal reads: To the Public of Chicago. Shall the United Cliaritios continue lo answer :ill the appeals coming from the; poor, sick and unfortunate, which an' increasing daily in alarming proportions? For '," years the United Charities, and the societies it has succeeded, has conducted its work for Chicago's pool' in an efficient and honorable manner through (he generosity of the public. The United Charities belongs to the public and it is merely its instrument For carrying out man s duty inwards his neighbor.' The demand this year is unusual and beyond any experience the society has ever had The increase is from 2S to -li m per cent in various departments of our work. This  an increase in relief disbursements. We have not increased the number of our employes but we have been working them almost, to The  iis point in c!,1r.r to meet the .-filiation. There has been an increase in contributions within the last six weeks, for which we are Ihankfiil, but at least $l4S.'~'ii additional is needed if ~! are lo mei l the  in full. Altluiimli !he weather has nor been severe it is well known that there are more people, out of employment than for years past. Illness, intemperance, discouragement, and family d" I are its aftermath. The Health Department bulletins already show there is inure sickness than for a number of years. We know that most of this is in the homes of the poor. A large portion of the unemployed are small wane earners and married men with families. Thousands of touching appeals  pathetic human  are coming lo us: Shall we let them go unanswered? If you who are employed and comfortable do not feel our full work should be carried on. we shall have to curtail it. We ask an immediate response from every citizen able to give assistance. Total direct assistance to the. poor. $221,8u7.72: percentage or total expense. 7-l.ii'."; . This includes: .Material relief (food. fuel. rent, medicine, clothing, etc.), $l23,.3  ; relief service (this may be likened to visit- j ing nurses' work: it means education ! and training, securing jobs for - j ployed, medical and hospital care for the sick, carrying out plans that result in re-establishing families), ?fil,15S.70; visitors' carfare, $3,,il3.G7. Cost of providing relief centers and general offices, $!2,7(l(~.12 - 14.1%. ' ' Supervisory salaries, ?"2,14  .M - 1O.S%. Refunds, $171.03-0.2%. Total amount of 11)12-13 disbursements, $297,133.50 - 100%. Proportion of persons befriended in 1912-13 to general population - I in 3. Proportion of persons contributing in 1312-1 :i to the general population - 1 in :;12. Increased Demands for Assistance Are Shown by Following Comparisons. Families not known before helped through nine district offices - December, 1912, 779 families (whole month); December, 1913, 1410 families (15 days only). Applications to the Department for Homeless .Men- December, ]!)12, 113 men (whole month); December, 1913, 550 men (15 days only). 1914 Budget of the United Charities of Chicago. Increased demands for aid require an increase in the budget. Our estimate of $148,000 needed in now and increased subscriptions is based on the following: Income from endowment, etc. $ 22,000 Estimated receipts from regular! subscribers 100,000 Received or pledged in present Campaign SO.000 Special funds 30,000 \ $252,000 Amount- which must be  addition to above. $148,000 1914  $400,000
+</p>
+            </body>
+          </html>
+]]></HiddenText>
+    </TextInfo>
+  </ObjectInfo>
+  <LegacyData>
+    <PQ>
+      <docdt>
+        <manuhists>
+          <manuhist>20060929 141018 SIS ftl_20060929_14101700_3_3 PQ16.8 ADM</manuhist>
+          <manuhist>20100507 133951 SIS mstar_68420_1914_20100430_9523_9523 MstarTrans $Revision 2.3 $</manuhist>
+        </manuhists>
+        <doc-create>20060929</doc-create>
+        <doc-modify>20060929</doc-modify>
+      </docdt>
+      <derdt>
+        <word-count>658</word-count>
+        <dmlversion>PQ6.18/a</dmlversion>
+      </derdt>
+    </PQ>
+  </LegacyData>
+</RECORD>

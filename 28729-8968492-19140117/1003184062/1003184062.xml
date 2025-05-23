@@ -1,0 +1,129 @@
+<RECORD>
+  <Version>Global_Schema_v4.0.xsd</Version>
+  <MinorVersion>8</MinorVersion>
+  <ParentInfo>
+    <PublicationID>28729</PublicationID>
+    <GroupingID GroupingDepth="1">6151029</GroupingID>
+  </ParentInfo>
+  <ObjectInfo>
+    <RecInfo>
+      <GlobalObjectID>493287407</GlobalObjectID>
+      <ObjectRevisions>
+        <ObjectRevision>
+          <RevisionNumber>1</RevisionNumber>
+          <InternalSource>HNP</InternalSource>
+          <UpdatedBy>eFeeds</UpdatedBy>
+          <UpdatedDate>20100705202732</UpdatedDate>
+          <Note NoteType="RawFilename">.HNP_BF_201005181145440000005954-mstar_68420_1914_20100430_0010.xml.gz.unc</Note>
+        </ObjectRevision>
+      </ObjectRevisions>
+      <CreatedDate>20100705202732</CreatedDate>
+      <CreatedBy>eFeeds</CreatedBy>
+      <LastLegacyUpdateTime>20060929141019</LastLegacyUpdateTime>
+    </RecInfo>
+    <DocInternalGrouping GroupType="PqXsearch">
+      <GroupName>mstar_68420_1914_20100430</GroupName>
+    </DocInternalGrouping>
+    <DocInternalGrouping GroupType="PqDocmfg">
+      <GroupName>PQID_HNP</GroupName>
+    </DocInternalGrouping>
+    <ObjectType ObjectTypeOrigin="Publisher">article</ObjectType>
+    <ObjectType ObjectTypeOrigin="mstar">Feature</ObjectType>
+    <ObjectType ObjectTypeOrigin="mstar">Article</ObjectType>
+    <ObjectRollupType>Articles - All Types</ObjectRollupType>
+    <Title>Article 1 -- No Title</Title>
+    <NumericDate>19140117</NumericDate>
+    <StartDate>19140117</StartDate>
+    <EndDate>19140117</EndDate>
+    <AlphaDate>Jan 17, 1914</AlphaDate>
+    <PageCount>1</PageCount>
+    <Language>
+      <RawLang>English</RawLang>
+    </Language>
+    <Language IsPrimary="true">
+      <ISO>
+        <ISOCode>ENG</ISOCode>
+        <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+      </ISO>
+    </Language>
+    <Copyright>
+      <CopyrightData>Copyright Real Times, Inc. Jan 17, 1914</CopyrightData>
+    </Copyright>
+    <PrintLocation>
+      <StartPage>2</StartPage>
+      <Pagination>2</Pagination>
+    </PrintLocation>
+    <ObjectIDs>
+      <ObjectID IDOrigin="HNP" IDType="DOCID">1003184062</ObjectID>
+      <ObjectID IDOrigin="HNP" IDType="PCID">8968492</ObjectID>
+      <ObjectID IDOrigin="HNP" IDType="PMID">68420</ObjectID>
+    </ObjectIDs>
+    <DateLine>Dayton, Ohio, Jan. 16.</DateLine>
+    <Contributors>
+      <Contributor ContribRole="Author" ContribOrder="1">
+        <OriginalForm ContribOrigin="pqauth">DAYTON SOCIETYA W Hubbard Special to The Chicago Defender</OriginalForm>
+      </Contributor>
+    </Contributors>
+    <Abstract WordCount="50" AbstractType="Short" Sid="HNP" Date="20060929" Time="140013">
+      <AbsText HTMLContent="true"><![CDATA[
+          <html>
+            <head>
+              <meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/>
+              <title/>
+            </head>
+            <body>
+              <p>
+Dayton, Ohio, Jan. 16.--Mrs. H. S. Perkins of Cedar avenue entertained a host of friends at a card party and a three-course lunch in honor of Mrs. Ernest Davis of Lexington, Ky. Those present were Bert Davis, Arthur Cooley, Grant Jackson, Mr. and Mrs. Charles Boone, Joe Lee, Mildred...
+</p>
+            </body>
+          </html>
+]]></AbsText>
+    </Abstract>
+    <TextInfo>
+      <HiddenText HTMLContent="true" Sid="HNP" Date="20060929" Time="140013"><![CDATA[
+          <html>
+            <head>
+              <meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/>
+              <title/>
+            </head>
+            <body>
+              <p>
+ng, Julius Avendoiv-. x. , Rev. E. C. Lewis, Va ion. After the cup was pres* Binga chairman of the n;, . the Colonel to the (lot .en and women came forward ai. jok their hands, uttering words of compliments for Buch a glorious occasion. Wm. Harsh acted as manager of interior. Rev. H. J. Callia said: "Col. John R. Marshall was born In Alexandria, Va., March 15, 1SCO, and received a common school education In that city. He was at Hampton School in the year 1871; served the bricklayer s trade in Washington, D. C, after which he came to Chicago, August 15, 1880, and has resided in Chicago for the last thirty-three years. "116 was married at Alexandria, Va., *to Lula D. Brawner December 23, 188U, and worked at Ui3 trade in Chicago the HrBt II years after his arrival here. "In 1884 he was appointed deputy county clerk of Cook county, and remained in that office until war was   declared  Spain, April, 1898, when he organized the Eighth Illinois U. S. Volunteer Regiment; was commissioned Colonel Juno 22, 181)8, by (Jov. John 1J. Taner; saw service during The Spanish-American war in Cuba for seven months and was mustered out of tin: volunteer service with his regiment April ;',, ISO J. "He was on tin; same day, April 3, JS99, appointed deputy sheriff of Cook county and served for four years and six months, when lie resigned on account of tin:  change of the ^affairs of Cook county. - "May 1, 1003, he was appointed district state game warden by the then Governor Hon. Richard Yates, and held that position for ten years, when lie resigned. "He assisted in organizing the Ninth Uattalion, I. N. ~., in June, 1890, and was elected captain Co. 'A' November 4, 189 1, and continued In that position until the Spanish-American war, when ho organized the regiment. The Ninth Battalion, composed ot four companies, formed the nucleus of the Eighth Regiment, Illinois U. S. V. Upon the muster out of the regiment in April, 1899, the battalion formation was again assumed with only four companies. He immediately upon the meeting of the first state legislature thereafter, had a bill drafted and introduced in both the Senate and House of Representatives raising the quota of the state troops eight companies so as to make a full regiment with the First Battalion as a nucleus. On account of the splendid record and valuable service rendered the country during the Spanisli war, the bill passed both houses of the legislature without a dissenting vote. The bill *V as signed by Gov. Yates and became a state law July 1, 1901. He was then commissioned by the  to organize eight more  to fill up the regiment. He  two companies at Chicago and ne each in the following cities: Sloomington, Springfield, Danville, , Jacksonville and Metropolis. "The full regiment was then  in the Illinois National Guard /~une 24, 1902, and ho again was ' unanimously elected its first colonel for the term of five years, and re-elected colonel of 1907 and 1912, each time receiving the unanimous vote of the officers. "In September, 1909, he, knowing the long felt want of his regiment, ;that (of having an armory, began to look for a site with the idea of owning the land and believing if he could purchase a site for the .armory he would then be able to induce the legislature to pass a bill making an appropriation to build it Ho got an option on land which cost $7,500, paid the first $3,500 out of his own bank account, gave back a mortgage for the balance and started to raise the purchase money. In 15 months thereafter he raised the entire amount. $500 interest and taxes included, from public spirited citizens and by entertainments, and upon the assembling of the legislature in 1910 he went before that body, stated his appropriation, and with deeds showing that he had clear title induced Senator Samuel A. Ettleson of his district to introduce a bill in the Senate and Hon. Edward Green to introduce the same in the House for the purpose of building an armory for the Eighth Regiment. The bill received the unanimous vote of both the Senate and House of Representatives and is now a law upon the statuto books of this state. "Plans have been drawn, the site consists of 313 feet on Forest avenue just south of 35th street, and the armory will be started this spring. When completed. It will cost $200,000 and will be as fine as any in the state." Presentation Speech By A. H. Roberts. Dear Colonel - Moved by the beautiful sentiments that have been expressed by the gentlemen who have preceded me, I have now the honor and the pleasure of presenting to you this beautiful cup, testifying, as words cannot do, the respect, esteem and love in which you are held by our many friends in Chicago. Should you, on account of the lapse of memory, forget the eloquent words that your \ears have heard tonight, placing this token in your home, which we hope mill ever be blessed with the comforts \nd cheer that you so  deserve, "~ur eyes seeing this beautiful gift '1 constantly remind you of our love keep fresh forever the memories you hold dear. Beautiful as is up, look not so much upon its as what it represents. Look it and into the heart of Mr. id the gentlemen associated who are responsible for this imber that the hundreds of citizens here assembled to ~, are but a small  who feel as we. housand Negroes of IIsent in person tonight,   irit, expressing with heir pride, and their ou. Lo'vo is the '., exquisite, *  exhales : .uty and charms only hint at \ove is what So, on befriends in you,
+</p>
+              <p>
+ing the hope the with health, strength and  v. Col. Marshall's Response.   Col. John R. Marshall's response to the presentation 'speech: "Mr. Chairman and Friends: , "No mere words that I am capable of uttering can possibly express the deep sense of heartfelt gratitude which by your token of love and friendship is evidenced tonight. I have lived with and among you for more than 33 years, and it has been my highest aim to so conduct myself that I would always merit the esteem which by your presence and gift you seem to hold for me. This occasion in part is due to the fact that I have recently separated myself from the organization which to me was as dear as any world s treasure, with the single exception of my beloved wife. "There is some impression abroad that my separation was the result of motives which could not bear the light of day. Of this I have nothing to say. and I would not under any circumstance say a word that in any way would tend in the slightest  to interefere with the uninterrupted success and prosperity of the Eighth Infantry, I. X. C. .My very wish and hope, and to this ] here and now  myself, is for the attainment of the highest grade possible for the Eighth Regiment and every - connected with it. "For your testimonial and presence tonight .1 thank you from the bottom of my heart, and my fervent wish and hope is that I shall .always live and act in such a way that you may never feel one single regret for having tonight expressed your confidence and esteem. Dear friends, you have seen fit to present mo with this beautiful loving cup. I am proud of it and of you, and I thank you for the feelings which prompted you in giving it, and for the good judgment displayed in the selection. This beautiful cup, notwithstanding its magnificent proportions, is not large enough to contain my thanks and love for you, one and all. and every time that I shall gaze within its golden bowl it will bring back sweet memories of the occasion for which we are now gathered."
+</p>
+              <p>
+DAYTON SOCIETY.
+</p>
+              <p>
+By ~. W. Hubbard. (Special to The Chicago Defender.)
+</p>
+              <p>
+Dayton, Oliio, Jan. 16.- Mrs II. S. Perkins of Cedar avenue entertained a host of friends at a card party and a three-course lunch in honor of Mrs. Ernest Davis of Lexington, Ky. Those present were Bert Davis, Arthur Cooley, Grant Jackson, .Mr. and Mrs. Charles Uoone. .loo Lpp. MUrlrpd
+</p>
+              <p>
+Chambers of Winchester, Ky. ; Bertha and Betty Wilson, Frank Price, Mrs Henry Jackson, .Mrs. Edward Goodlow Miss Lizzie Williams, Mr. .lames Steward, Harry Bentley and George Alexander. Dr. Nathaniel H. Talbott Dies. Tuberculosis of the throat caused the death at 1 o clock Sunday morning of one of the leading colored physicians of . the city. Dr. Talbott had been a sufferer from the disease for several years. Funeral services were held Tuesday afternoon at 2 o clock at the McKinley Church, Hawthorne street. The doctor was buried at Woodlawn Cemetery. Dr. Talbott leaves a widow, two daughters and one son. Walter W. Stewart. funeral services for Walter \V. Stewart, aged 38, who died Saturday at Miami Valley Hospital, were held Monday afternoon at 2 o clock from the chapel of Jones Bros, undertaking establishment. Burial was made at the Woodlawn Cemetery. Stewart made his home at the Bell Hotel. Mrs. Carl Price Burned by Gasoline. Gasoline, which splashed on her skirt from two quart jars of gasoline which she was carrying home from a nearby store Sunday morning, resulted in Mrs. Carl Price,  28, of 30:'. Duiibar avenue receiving burns which probably will cause her death.After reaching home with the gasoline Mrs. Price began to put coal into an open grate, and the gaso line on the skirt took fire and set lire to the woman s garments. Mrs. Price ran from the house, her screams attracting attention of other occupants of the place, who ran to her assistance. Before Mrs. Price could be reached and the fire extinguished the lire had burned through her clothing and she was suffering from terrible burns when friends reached St. Elizabeth Hospital with her. It was said early Monday morning that she was resting easily, but that there was littie chance for her recovery. Will Have Earn Dance. A number of the young men belonging to the colored employes club' of the Rlke-Kumler Company arc arranging a barn dance to be given on the evening of January 2S at the Biles' Club hall. Miss Arminda Johnson of West Fifth street is confined to her bed with a bad cold. The Xeil Hotel dining room is doing a big business. Mr. Roberts has what it takes to make business. The head waiters of Dayton are not like they were some years ago. If one of their men would get sick they would appoint a committee to go see him, and take up a collection for him or send him some fruit. Now, hero is "String Beans" and James Johnson, who  ~)een sick for quite a while and really neei assistance. Now, boys, get together, take , up a collection and appoint a commit- ! teo and give an entertainment for   their benefit. The Chicago Defender on sale at 227 West Fifth street. I
+</p>
+            </body>
+          </html>
+]]></HiddenText>
+    </TextInfo>
+  </ObjectInfo>
+  <LegacyData>
+    <PQ>
+      <docdt>
+        <manuhists>
+          <manuhist>20060929 141019 SIS ftl_20060929_14101700_19_19 PQ16.8 ADM</manuhist>
+          <manuhist>20100507 133952 SIS mstar_68420_1914_20100430_9539_9539 MstarTrans $Revision 2.3 $</manuhist>
+        </manuhists>
+        <doc-create>20060929</doc-create>
+        <doc-modify>20060929</doc-modify>
+      </docdt>
+      <derdt>
+        <word-count>1879</word-count>
+        <dmlversion>PQ6.18/a</dmlversion>
+      </derdt>
+    </PQ>
+  </LegacyData>
+</RECORD>

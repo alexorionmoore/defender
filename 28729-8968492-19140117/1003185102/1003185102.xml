@@ -1,0 +1,128 @@
+<RECORD>
+  <Version>Global_Schema_v4.0.xsd</Version>
+  <MinorVersion>8</MinorVersion>
+  <ParentInfo>
+    <PublicationID>28729</PublicationID>
+    <GroupingID GroupingDepth="1">6151029</GroupingID>
+  </ParentInfo>
+  <ObjectInfo>
+    <RecInfo>
+      <GlobalObjectID>493258140</GlobalObjectID>
+      <ObjectRevisions>
+        <ObjectRevision>
+          <RevisionNumber>1</RevisionNumber>
+          <InternalSource>HNP</InternalSource>
+          <UpdatedBy>eFeeds</UpdatedBy>
+          <UpdatedDate>20100705202452</UpdatedDate>
+          <Note NoteType="RawFilename">.HNP_BF_201005181145440000005954-mstar_68420_1914_20100430_0010.xml.gz.unc</Note>
+        </ObjectRevision>
+      </ObjectRevisions>
+      <CreatedDate>20100705202452</CreatedDate>
+      <CreatedBy>eFeeds</CreatedBy>
+      <LastLegacyUpdateTime>20060929141032</LastLegacyUpdateTime>
+    </RecInfo>
+    <DocInternalGrouping GroupType="PqXsearch">
+      <GroupName>mstar_68420_1914_20100430</GroupName>
+    </DocInternalGrouping>
+    <DocInternalGrouping GroupType="PqDocmfg">
+      <GroupName>PQID_HNP</GroupName>
+    </DocInternalGrouping>
+    <ObjectType ObjectTypeOrigin="Publisher">review</ObjectType>
+    <ObjectType ObjectTypeOrigin="mstar">Review</ObjectType>
+    <ObjectRollupType>Reviews - All Types</ObjectRollupType>
+    <Title>MUSICAL AND DRAMATIC</Title>
+    <SubTitle>JOTTINGS THEATRICAL AND OTHERWISE THE GRAND</SubTitle>
+    <NumericDate>19140117</NumericDate>
+    <StartDate>19140117</StartDate>
+    <EndDate>19140117</EndDate>
+    <AlphaDate>Jan 17, 1914</AlphaDate>
+    <PageCount>1</PageCount>
+    <Language>
+      <RawLang>English</RawLang>
+    </Language>
+    <Language IsPrimary="true">
+      <ISO>
+        <ISOCode>ENG</ISOCode>
+        <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+      </ISO>
+    </Language>
+    <Copyright>
+      <CopyrightData>Copyright Real Times, Inc. Jan 17, 1914</CopyrightData>
+    </Copyright>
+    <PrintLocation>
+      <StartPage>6</StartPage>
+      <Pagination>6</Pagination>
+    </PrintLocation>
+    <ObjectIDs>
+      <ObjectID IDOrigin="HNP" IDType="DOCID">1003185102</ObjectID>
+      <ObjectID IDOrigin="HNP" IDType="PCID">8968492</ObjectID>
+      <ObjectID IDOrigin="HNP" IDType="PMID">68420</ObjectID>
+    </ObjectIDs>
+    <Contributors>
+      <Contributor ContribRole="Author" ContribOrder="1">
+        <OriginalForm ContribOrigin="pqauth">All Passes Art Alone Endures</OriginalForm>
+      </Contributor>
+    </Contributors>
+    <Abstract WordCount="54" AbstractType="Short" Sid="HNP" Date="20060929" Time="140016">
+      <AbsText HTMLContent="true"><![CDATA[
+          <html>
+            <head>
+              <meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/>
+              <title/>
+            </head>
+            <body>
+              <p>
+Patrons of the Grand who do not go in time to see the "Movies," which always precede the vaudeville, many times miss a rare treat, as some very fine pictures are shown--pictures that make this house distinctive, as they are evidently selected with great care. And too the early goer is repaid by...
+</p>
+            </body>
+          </html>
+]]></AbsText>
+    </Abstract>
+    <TextInfo>
+      <HiddenText HTMLContent="true" Sid="HNP" Date="20060929" Time="140016"><![CDATA[
+          <html>
+            <head>
+              <meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/>
+              <title/>
+            </head>
+            <body>
+              <p>
+MUSiyAL AND DRAMATIC
+</p>
+              <p>
+"Allf Passes, Art Alone Endures"
+</p>
+              <p>
+JOTTINGS THEATRICAL AND OTHERWISE.
+</p>
+              <p>
+THE GRAND.
+</p>
+              <p>
+Patrons of the Grand who do not no in time to see the "Movies," which always precede the vaudeville, many times miss a rare treat, as some very fine pictures are shown - pictures that make this house distinctive, us they are evidently selected with great care. And too the early goer js repaid by
+</p>
+              <p>
+selections oC class by the famous grand orchestra, so here again is a demonstration of the early bird catching the worm. Mizpah Silbini opened the Ijill this week with a semi-juggling and dancing act that was only passable. Williams and Held, billed as a study in black and tan, had a neat little talking act that doubtless would have taken better in another house. It was on the order of Miller and Lyles' with the exception that it was a little coarser. They were received poorly and did not have a chance to respond to an encore to show they were a white team, ( and Mack,      Italian organ grinder and singer, had a good turn and a novel one in many ways. Cook and Stevens are prime favorites and were easily the hit of the bill. Cook's make up as a Chinaman was capital, as was his impersonation of (heir mannerisms. Stevens is an artist in his line and -together they made a combination hard to beat. Went worth, Vesta and Teddy, two people and ' a dog, unique gymnasts and athletes - including the dog - were good and the audience showed their appreciation by generous applause. Beginning Monday an exceptionally good bill will be offered for the week.
+</p>
+            </body>
+          </html>
+]]></HiddenText>
+    </TextInfo>
+  </ObjectInfo>
+  <LegacyData>
+    <PQ>
+      <docdt>
+        <manuhists>
+          <manuhist>20060929 141032 SIS ftl_20060929_14101700_123_123 PQ16.8 ADM</manuhist>
+          <manuhist>20100507 133954 SIS mstar_68420_1914_20100430_9643_9643 MstarTrans $Revision 2.3 $</manuhist>
+        </manuhists>
+        <doc-create>20060929</doc-create>
+        <doc-modify>20060929</doc-modify>
+      </docdt>
+      <derdt>
+        <word-count>280</word-count>
+        <dmlversion>PQ6.18/a</dmlversion>
+      </derdt>
+    </PQ>
+  </LegacyData>
+</RECORD>

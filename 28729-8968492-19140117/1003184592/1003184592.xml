@@ -1,0 +1,96 @@
+<RECORD>
+  <Version>Global_Schema_v4.0.xsd</Version>
+  <MinorVersion>8</MinorVersion>
+  <ParentInfo>
+    <PublicationID>28729</PublicationID>
+    <GroupingID GroupingDepth="1">6151029</GroupingID>
+  </ParentInfo>
+  <ObjectInfo>
+    <RecInfo>
+      <GlobalObjectID>493259490</GlobalObjectID>
+      <ObjectRevisions>
+        <ObjectRevision>
+          <RevisionNumber>1</RevisionNumber>
+          <InternalSource>HNP</InternalSource>
+          <UpdatedBy>eFeeds</UpdatedBy>
+          <UpdatedDate>20100705202459</UpdatedDate>
+          <Note NoteType="RawFilename">.HNP_BF_201005181145440000005954-mstar_68420_1914_20100430_0010.xml.gz.unc</Note>
+        </ObjectRevision>
+      </ObjectRevisions>
+      <CreatedDate>20100705202459</CreatedDate>
+      <CreatedBy>eFeeds</CreatedBy>
+      <LastLegacyUpdateTime>20060929141022</LastLegacyUpdateTime>
+    </RecInfo>
+    <DocInternalGrouping GroupType="PqXsearch">
+      <GroupName>mstar_68420_1914_20100430</GroupName>
+    </DocInternalGrouping>
+    <DocInternalGrouping GroupType="PqDocmfg">
+      <GroupName>PQID_HNP</GroupName>
+    </DocInternalGrouping>
+    <ObjectType ObjectTypeOrigin="Publisher">editorial_article</ObjectType>
+    <ObjectType ObjectTypeOrigin="mstar">Editorial</ObjectType>
+    <ObjectType ObjectTypeOrigin="mstar">Commentary</ObjectType>
+    <ObjectRollupType>Articles - All Types</ObjectRollupType>
+    <Title>VAGRANCY LAW</Title>
+    <NumericDate>19140117</NumericDate>
+    <StartDate>19140117</StartDate>
+    <EndDate>19140117</EndDate>
+    <AlphaDate>Jan 17, 1914</AlphaDate>
+    <PageCount>1</PageCount>
+    <Language>
+      <RawLang>English</RawLang>
+    </Language>
+    <Language IsPrimary="true">
+      <ISO>
+        <ISOCode>ENG</ISOCode>
+        <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+      </ISO>
+    </Language>
+    <Copyright>
+      <CopyrightData>Copyright Real Times, Inc. Jan 17, 1914</CopyrightData>
+    </Copyright>
+    <PrintLocation>
+      <StartPage>4</StartPage>
+      <Pagination>4</Pagination>
+    </PrintLocation>
+    <ObjectIDs>
+      <ObjectID IDOrigin="HNP" IDType="DOCID">1003184592</ObjectID>
+      <ObjectID IDOrigin="HNP" IDType="PCID">8968492</ObjectID>
+      <ObjectID IDOrigin="HNP" IDType="PMID">68420</ObjectID>
+    </ObjectIDs>
+    <TextInfo>
+      <HiddenText HTMLContent="true" Sid="HNP" Date="20060929" Time="140015"><![CDATA[
+          <html>
+            <head>
+              <meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/>
+              <title/>
+            </head>
+            <body>
+              <p>
+VAGRANCY LAW.
+</p>
+              <p>
+Upon numerous occasions attention has been called to a curtain class of young women who seem to take pleas lire in parading up and down the sli  and loitering in The cafes. Anil they have Ijouii warned that if they continue the practice they would bo made" to suffer for it. The argument is set forth that as Ions as I hey are   not-boisterous and are seemingly attending to their own business no one ' has the "right to interfere with them. Hut  is not the case. A judge in , the .Municipal 1'ourt recently held i that a woman is guilty of vagrancy if : found loitering about saloons, cafes or on the streets.' even though no disorderly aci is proven. A self-respect- j  ins; woman would not care to do such : things and the other kind must accepts what the law metes out to them if They persist in so doing. The vagrancy law has been  for years lo nun and why should women be exempt? The reform wave has truly smirk Chicago and it is about time., as the underworld element was  i  to think that it was impervious ] to the law. The women of our race must needs be exceptionally careful in their conduct at all times as the I world unjustly holds an opinion of i them that is not of the best.  
+</p>
+            </body>
+          </html>
+]]></HiddenText>
+    </TextInfo>
+  </ObjectInfo>
+  <LegacyData>
+    <PQ>
+      <docdt>
+        <manuhists>
+          <manuhist>20060929 141022 SIS ftl_20060929_14101700_72_72 PQ16.8 ADM</manuhist>
+          <manuhist>20100507 133953 SIS mstar_68420_1914_20100430_9592_9592 MstarTrans $Revision 2.3 $</manuhist>
+        </manuhists>
+        <doc-create>20060929</doc-create>
+        <doc-modify>20060929</doc-modify>
+      </docdt>
+      <derdt>
+        <word-count>232</word-count>
+        <dmlversion>PQ6.18/a</dmlversion>
+      </derdt>
+    </PQ>
+  </LegacyData>
+</RECORD>

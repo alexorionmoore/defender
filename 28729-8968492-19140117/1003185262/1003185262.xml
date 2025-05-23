@@ -1,0 +1,128 @@
+<RECORD>
+  <Version>Global_Schema_v4.0.xsd</Version>
+  <MinorVersion>8</MinorVersion>
+  <ParentInfo>
+    <PublicationID>28729</PublicationID>
+    <GroupingID GroupingDepth="1">6151029</GroupingID>
+  </ParentInfo>
+  <ObjectInfo>
+    <RecInfo>
+      <GlobalObjectID>493236139</GlobalObjectID>
+      <ObjectRevisions>
+        <ObjectRevision>
+          <RevisionNumber>1</RevisionNumber>
+          <InternalSource>HNP</InternalSource>
+          <UpdatedBy>eFeeds</UpdatedBy>
+          <UpdatedDate>20100705202248</UpdatedDate>
+          <Note NoteType="RawFilename">.HNP_BF_201005181145440000005954-mstar_68420_1914_20100430_0010.xml.gz.unc</Note>
+        </ObjectRevision>
+      </ObjectRevisions>
+      <CreatedDate>20100705202248</CreatedDate>
+      <CreatedBy>eFeeds</CreatedBy>
+      <LastLegacyUpdateTime>20060929141033</LastLegacyUpdateTime>
+    </RecInfo>
+    <DocInternalGrouping GroupType="PqXsearch">
+      <GroupName>mstar_68420_1914_20100430</GroupName>
+    </DocInternalGrouping>
+    <DocInternalGrouping GroupType="PqDocmfg">
+      <GroupName>PQID_HNP</GroupName>
+    </DocInternalGrouping>
+    <ObjectType ObjectTypeOrigin="Publisher">article</ObjectType>
+    <ObjectType ObjectTypeOrigin="mstar">Feature</ObjectType>
+    <ObjectType ObjectTypeOrigin="mstar">Article</ObjectType>
+    <ObjectRollupType>Articles - All Types</ObjectRollupType>
+    <Title>SISTER&apos;S SABLE MUFF</Title>
+    <NumericDate>19140117</NumericDate>
+    <StartDate>19140117</StartDate>
+    <EndDate>19140117</EndDate>
+    <AlphaDate>Jan 17, 1914</AlphaDate>
+    <PageCount>1</PageCount>
+    <Language>
+      <RawLang>English</RawLang>
+    </Language>
+    <Language IsPrimary="true">
+      <ISO>
+        <ISOCode>ENG</ISOCode>
+        <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+      </ISO>
+    </Language>
+    <Copyright>
+      <CopyrightData>Copyright Real Times, Inc. Jan 17, 1914</CopyrightData>
+    </Copyright>
+    <PrintLocation>
+      <StartPage>6</StartPage>
+      <Pagination>6</Pagination>
+    </PrintLocation>
+    <ObjectIDs>
+      <ObjectID IDOrigin="HNP" IDType="DOCID">1003185262</ObjectID>
+      <ObjectID IDOrigin="HNP" IDType="PCID">8968492</ObjectID>
+      <ObjectID IDOrigin="HNP" IDType="PMID">68420</ObjectID>
+    </ObjectIDs>
+    <Contributors>
+      <Contributor ContribRole="Author" ContribOrder="1">
+        <FirstName IsNormalized="true" ContribOrigin="AuthorNormalization">Claudine</FirstName>
+        <PersonName IsNormalized="true" ContribOrigin="AuthorNormalization">Claudine Sisson</PersonName>
+        <LastName IsNormalized="true" ContribOrigin="AuthorNormalization">Sisson</LastName>
+        <OriginalForm ContribOrigin="pqauth">CLAUDINE SISSON</OriginalForm>
+      </Contributor>
+    </Contributors>
+    <Abstract WordCount="8" AbstractType="Short" Sid="HNP" Date="20060929" Time="140017">
+      <AbsText HTMLContent="true"><![CDATA[
+          <html>
+            <head>
+              <meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/>
+              <title/>
+            </head>
+            <body>
+              <p>
+"Good lands, but I've kicked a cat!"
+</p>
+            </body>
+          </html>
+]]></AbsText>
+    </Abstract>
+    <TextInfo>
+      <HiddenText HTMLContent="true" Sid="HNP" Date="20060929" Time="140017"><![CDATA[
+          <html>
+            <head>
+              <meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/>
+              <title/>
+            </head>
+            <body>
+              <p>
+\ SISTER S SABLE MUFF
+</p>
+              <p>
+By CLAUDINE SISSON.
+</p>
+              <p>
+I "Good lands, but I've kicked a cat!"
+</p>
+              <p>
+I Aliss Lysle Teller, stenographer in  city and living with her mother ih a suburban village, had been one oj the lust 10 leave the electric car, a^id in the gloom of a winter s evening her foot had struck something, soft and furry and kicked it ahead of her. "Here, pussy, pussy, pussy!" {3 lit pussy did not respond with a meow or reproach that who had been kicked. ''My soul, but It's a muff!" So it was, and of the latest style and a very expensive one. Of course, someone who had passed that way had lost it. Miss Lysle ran for two blocks, hoping to meet or overtake the loser, but she saw no one. Miss Lysle had a brother Ben. He bad just begun the study of law. He had advanced far enough to be able to state the difference between arson and burglary, and seized upon every opportunity to air his law. When the muff had been inspected and admired ut home he said: "Um! You must be careful about this matter, Lysle, or it ll turn out a complicated legal case." The next morning Miss Lysle asked the car conductor, but he could not help her out. She was carrying the muff to the office with her, and on the car with her was a hatchet-faced young man who was given to induction and inference. Hero was a girl whose outfit did not cost over $35, and yet she was carrying a sable muff that must have cost hundreds. Wheu .Miss Lysle left the suburban :ar in the city the young man crowded forward and lifted his hat and : "it is about the muff I wish to spe.ak ;o you." , "O-h-h!"   "My sister will be so glad!" "Then it was your sister who - " The girl caught herself. She wasn't iO simple after all. "1 was about to advertise the loss )f the fur," suavely observed the roung man. A young man who didn't like the ook of the hatchet-faced one at all ]ad halted within hearing distance, md he now stepped forward and said o Miss Lysle: "I beg your pardon, but Is that i  man annoying you?" "He claims that his sister lost this : nuff, and 1 don't believe him." ' "You found it, did you?" "Yes, sir."- ! "Hetter advertise for an owner. As \ for this fellow here, if he doesn't take !  off I'll call an officer. He's a Iraud and a swindle! Good morning." The young man took himself off, but he rode down town on the same :ar with Miss Lysle, just the same, and followed her to the office where ' she was employed. If he could get hold of that muff It would be $50 in Ills pocket. Miss Lysle's brother Hen, the rising young lawyer, had advised her to advertise her find. At the office she was id vised to wait a day and let the loser . advertise. She adopted this plan. : When she started for home In the evening she carried the muff with her The hatchet-faced young man was waiting to follow her. That         was a great temptation lo . Mr. Clyde Melton, the young , came along just as the girl stepped to the walk and he followed on - not because he was (seeking a Illrtatton - not because he identified her as the girl of the morning whose part he had taken against hatchet-face, but because he had received a message from his sister in the same suburb Miss Lylse lived in stating that something awful had happened and he must come as soon as ever he could. And so the trio rode on until the "All out!" of the conductor was shouted. Then there was a scramble, and Miss Lysle hurried away, the thief followed, and the sculptor almost rah. The thief was too precipitate. He attacked the girl while the sculptor was yet within hearing. Her screams as she fought with one hand and held on to the muff with the other brought Mr. .Melton back, and he recognized the assailant at once.  tight and Justice seldom triumph, but this was one of the exceptions. The thief was knocked down. He was punched. He was battered. He was choked. He had his eyes blacked and his nose skinned. Me was jerked to
+</p>
+              <p>
+his feet and kicked around the corner, and the sculptor turned to receive the thanks of the girl with the sable muff. She had disappeared! Ten minutes later his sister was weepingly saying to him: "Oh, Clyde, It's awful- just awful!" " dead?" "No. I've lost that new sable muff that I bought the other day!" "Sable muff?" "Yes. I lost it on the street coming from the car." "Hut you have advertised it?" "No. Fred is away, you know, and I didn't know how to get an advertisement to the city papers. What on earth shall I do?" "Cease to weep and I'll find your muff." The sculptor went back to the spot He didn't look for the girl s tracks. He walked two blocks down a side street and then rang a bell. Luck had been a good guide. It was Miss Lysle Teller that came to the door in answer. It took just two hours to straighten out the tangle of that Bable muff, and then followed another. Brother Ben, the rising young lawyer, didn't have anything to say about this latter tangle for several months, and then It was In a very serious tone that he said: "Mother, didn't I say that unless this case was handled right there would be serious complications?" "Mercy on me, but what s happened?" "The hero and heroine are engaged \o be married! Both admit theii guilt!"
+</p>
+            </body>
+          </html>
+]]></HiddenText>
+    </TextInfo>
+  </ObjectInfo>
+  <LegacyData>
+    <PQ>
+      <docdt>
+        <manuhists>
+          <manuhist>20060929 141033 SIS ftl_20060929_14101700_139_139 PQ16.8 ADM</manuhist>
+          <manuhist>20100507 133954 SIS mstar_68420_1914_20100430_9659_9659 MstarTrans $Revision 2.3 $</manuhist>
+        </manuhists>
+        <doc-create>20060929</doc-create>
+        <doc-modify>20060929</doc-modify>
+      </docdt>
+      <derdt>
+        <word-count>984</word-count>
+        <dmlversion>PQ6.18/a</dmlversion>
+      </derdt>
+    </PQ>
+  </LegacyData>
+</RECORD>

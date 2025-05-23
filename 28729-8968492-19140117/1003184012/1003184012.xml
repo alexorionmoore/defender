@@ -1,0 +1,144 @@
+<RECORD>
+  <Version>Global_Schema_v4.0.xsd</Version>
+  <MinorVersion>8</MinorVersion>
+  <ParentInfo>
+    <PublicationID>28729</PublicationID>
+    <GroupingID GroupingDepth="1">6151029</GroupingID>
+  </ParentInfo>
+  <ObjectInfo>
+    <RecInfo>
+      <GlobalObjectID>493275645</GlobalObjectID>
+      <ObjectRevisions>
+        <ObjectRevision>
+          <RevisionNumber>1</RevisionNumber>
+          <InternalSource>HNP</InternalSource>
+          <UpdatedBy>eFeeds</UpdatedBy>
+          <UpdatedDate>20100705202625</UpdatedDate>
+          <Note NoteType="RawFilename">.HNP_BF_201005181145440000005954-mstar_68420_1914_20100430_0010.xml.gz.unc</Note>
+        </ObjectRevision>
+      </ObjectRevisions>
+      <CreatedDate>20100705202625</CreatedDate>
+      <CreatedBy>eFeeds</CreatedBy>
+      <LastLegacyUpdateTime>20060929141019</LastLegacyUpdateTime>
+    </RecInfo>
+    <DocInternalGrouping GroupType="PqXsearch">
+      <GroupName>mstar_68420_1914_20100430</GroupName>
+    </DocInternalGrouping>
+    <DocInternalGrouping GroupType="PqDocmfg">
+      <GroupName>PQID_HNP</GroupName>
+    </DocInternalGrouping>
+    <ObjectType ObjectTypeOrigin="Publisher">front_page</ObjectType>
+    <ObjectType ObjectTypeOrigin="mstar">Front Page/Cover Story</ObjectType>
+    <ObjectRollupType>Articles - All Types</ObjectRollupType>
+    <Title>Banker Jesse Binga Presides at Monster Loving Cup Ceremonies at Odd Fellows Hall</Title>
+    <SubTitle>Which Brought Out Hundreds of Citizens Who Were Friends and Well Wishers of the Colonel and His Regiment--Hundreds Turned Away Before Meeting Began--Program Finest of Any Yet Given This Year--Many Politicians and Military Men at Scene LOUD APPLAUSE WHEN CUP IS PRESENTED The Colonel Did Not Speak on His Present Troubles, But Was Proud to See How Loyal His Life-long Friends Were Through All His Trials--Many of the Citizens Rushed in to Shake Hands with the Hero of Santiago--The Star Spangled Banner Was Played and Cheered by the Audience BANKER JESSE BINGA</SubTitle>
+    <NumericDate>19140117</NumericDate>
+    <StartDate>19140117</StartDate>
+    <EndDate>19140117</EndDate>
+    <AlphaDate>Jan 17, 1914</AlphaDate>
+    <PageCount>1</PageCount>
+    <Language>
+      <RawLang>English</RawLang>
+    </Language>
+    <Language IsPrimary="true">
+      <ISO>
+        <ISOCode>ENG</ISOCode>
+        <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+      </ISO>
+    </Language>
+    <Copyright>
+      <CopyrightData>Copyright Real Times, Inc. Jan 17, 1914</CopyrightData>
+    </Copyright>
+    <PrintLocation>
+      <StartPage>1</StartPage>
+      <Pagination>1</Pagination>
+    </PrintLocation>
+    <ObjectIDs>
+      <ObjectID IDOrigin="HNP" IDType="DOCID">1003184012</ObjectID>
+      <ObjectID IDOrigin="HNP" IDType="PCID">8968492</ObjectID>
+      <ObjectID IDOrigin="HNP" IDType="PMID">68420</ObjectID>
+    </ObjectIDs>
+    <Contributors>
+      <Contributor ContribRole="Author" ContribOrder="1">
+        <FirstName IsNormalized="true" ContribOrigin="AuthorNormalization">Cary</FirstName>
+        <PersonName IsNormalized="true" ContribOrigin="AuthorNormalization">Cary B Lewis</PersonName>
+        <LastName IsNormalized="true" ContribOrigin="AuthorNormalization">Lewis</LastName>
+        <MiddleName IsNormalized="true" ContribOrigin="AuthorNormalization">B</MiddleName>
+        <OriginalForm ContribOrigin="pqauth">Cary B Lewis</OriginalForm>
+      </Contributor>
+    </Contributors>
+    <Abstract WordCount="49" AbstractType="Short" Sid="HNP" Date="20060929" Time="140013">
+      <AbsText HTMLContent="true"><![CDATA[
+          <html>
+            <head>
+              <meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/>
+              <title/>
+            </head>
+            <body>
+              <p>
+Great crowds of the leading citizens of Chicago wended their way to Odd Fellows' hall on Thursday night to pay honor and tribute to the life of Col. John R. Marshall, the distinguished soldier, citizen, Mason, Pythian, and man of affairs. Friends and admirers packed the hall and...
+</p>
+            </body>
+          </html>
+]]></AbsText>
+    </Abstract>
+    <TextInfo>
+      <HiddenText HTMLContent="true" Sid="HNP" Date="20060929" Time="140013"><![CDATA[
+          <html>
+            <head>
+              <meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/>
+              <title/>
+            </head>
+            <body>
+              <p>
+Banker Jesse Binga Presides at Monster Loving Cup Ceremonies at Odd Fellows Hall
+</p>
+              <p>
+Which Brought Out Hundreds of Citizens Who Were Friends and Well Wishers of the Colonel and His Regiment- Hundreds ' Turned Away Before Meeting Began - Program Finest of Any Yet Given This Year- Many Politicians and Military Men at Scene.
+</p>
+              <p>
+LOUD APPLAUSE WHEN CUP IS PRESENTED
+</p>
+              <p>
+The Colonel Did Not Speak on His Present Troubles, But Was Proud to See How Loyal His Life-long Friends Were Through All His Trials- Many of the Citizens Rushed in to Shake Hands with the Hero of Santiago- The Star Spangled Banner Was Played and Cheered by the Audience.
+</p>
+              <p>
+By Cary B. Lewis.
+</p>
+              <p>
+Great crowds of tile leading  of Chicago wended their way to Odd KpIIows" hall on Thursday .'t to pay honor and tribute to the lite of Col. John 1{. Marshall, the distinguished soldier, citizen, Mason, Pythian and man of affairs. Friends and admirers packed the hall and
+</p>
+              <p>
+Ions before tin: program started every seat in the hall was taken. It was one of the greatest meetings over held in this city. Men and women vied with each other in showing their appreciation of the noble service of the colonel to the regiment and his assisting in organizing the old Ninth Battalion. .Mr. Jesse Hinga, the banker, presided at the meeting. It was through the unselfish motive of this gentleman and public citizen that caused the meeting to be held and the loving cup given. Col. Marshall never looked happier in his life. There he saw a loving cup upon which was inscribed: "Col. John R. Marshall, Eighth Illinois National Guard, 19021914. Testimonial presented January 15, 19M, by Colored Citizens of Chicago." Berore the  begun Prof. Garfield Wilson's orchestra played. They seemed to feel the spirit of the occasion and played with sweetness and harmony. Another feature on the program was the singing of "Oh Dry Those Tears" by Mme. Patti Brown, America's greatest soprano singer.
+</p>
+              <p>
+Madame Brown never sang with as much freedom, such assurance, such bold attack and perfectly carrying tono. Having such a splendid vocal equipment at her command, she sang with feeling and tender sympathy. Little Jaunitia Umanuel sang Mr. Alfred Anderson's famous song, "If I Forget." Both received rounds of applause. The addresses of each  were able, eloquent and praiseworthy. It was notable that in every address there was not The slightest semblance of political or factional reeling/ Every act and move of Col. Marshallcareer was touched upon. The R Callis who was born in the       Virginia, the home state of the ored guest, was the speaker f evening. Major John R. Lyncl Jeniver, Julius Avendorph Cowan and A. H. Roberts addresses. After little Jaun' uel had finished her song, s= ed Mr. Roberts with the loving cup with gold  sented the cup in a mos ner after he had  of Negro soldiers and by the Colonel in tb can war. Mrs. Johi; of the Colonel, am' his niece, sat in the platform    Daniel Hale W T. Greener, W n. Lynch, ." Bentley, (Jton, Louis
+</p>
+              <p>
+BANKER JESSE BINGA.
+</p>
+              <p>
+Who Successfully Conducted the Marshall Testimonial at Odd Fellows' Hall Thursday Night- Contributed $500 for the National association for the Advancement of Colored People.
+</p>
+            </body>
+          </html>
+]]></HiddenText>
+    </TextInfo>
+  </ObjectInfo>
+  <LegacyData>
+    <PQ>
+      <docdt>
+        <manuhists>
+          <manuhist>20060929 141019 SIS ftl_20060929_14101700_14_14 PQ16.8 ADM</manuhist>
+          <manuhist>20100507 133952 SIS mstar_68420_1914_20100430_9534_9534 MstarTrans $Revision 2.3 $</manuhist>
+        </manuhists>
+        <doc-create>20060929</doc-create>
+        <doc-modify>20060929</doc-modify>
+      </docdt>
+      <derdt>
+        <word-count>539</word-count>
+        <dmlversion>PQ6.18/a</dmlversion>
+      </derdt>
+    </PQ>
+  </LegacyData>
+</RECORD>

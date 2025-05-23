@@ -1,0 +1,456 @@
+# File Updated on: 09/29/2006 14:01:05
+[Page]
+PageID = 3
+Documents = 22
+DocThread = 1003184442, 1003184502, 1003184352, 1003184412, 1003184432, 1003184472, 1003184482, 1003184522, 1003184382, 1003184422, 1003184332, 1003184492, 1003184312, 1003184322, 1003184462, 1003184372, 1003184392, 1003184512, 1003184362, 1003184342, 1003184452, 1003184402
+Zones = 56
+PageCollectionID = 8968492
+
+[Zone:1]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184442
+ZoneLeftCoord = 2149
+ZoneRightCoord = 2443
+ZoneTopCoord = 6059
+ZoneBottomCoord = 6097
+
+[Zone:2]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184442
+ZoneLeftCoord = 1994
+ZoneRightCoord = 2587
+ZoneTopCoord = 6101
+ZoneBottomCoord = 6288
+
+[Zone:3]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184502
+ZoneLeftCoord = 150
+ZoneRightCoord = 1361
+ZoneTopCoord = 4261
+ZoneBottomCoord = 6326
+
+[Zone:4]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184352
+ZoneLeftCoord = 2698
+ZoneRightCoord = 3115
+ZoneTopCoord = 4489
+ZoneBottomCoord = 4524
+
+[Zone:5]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184352
+ZoneLeftCoord = 2607
+ZoneRightCoord = 3220
+ZoneTopCoord = 4530
+ZoneBottomCoord = 4941
+
+[Zone:6]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184412
+ZoneLeftCoord = 2041
+ZoneRightCoord = 2550
+ZoneTopCoord = 4556
+ZoneBottomCoord = 4603
+
+[Zone:7]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184412
+ZoneLeftCoord = 1998
+ZoneRightCoord = 2593
+ZoneTopCoord = 4606
+ZoneBottomCoord = 5148
+
+[Zone:8]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184432
+ZoneLeftCoord = 2152
+ZoneRightCoord = 2431
+ZoneTopCoord = 5619
+ZoneBottomCoord = 5653
+
+[Zone:9]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184432
+ZoneLeftCoord = 1997
+ZoneRightCoord = 2589
+ZoneTopCoord = 5653
+ZoneBottomCoord = 6030
+
+[Zone:10]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184472
+ZoneLeftCoord = 781
+ZoneRightCoord = 1363
+ZoneTopCoord = 3329
+ZoneBottomCoord = 3678
+
+[Zone:11]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184482
+ZoneLeftCoord = 779
+ZoneRightCoord = 1369
+ZoneTopCoord = 3690
+ZoneBottomCoord = 3836
+
+[Zone:12]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184522
+ZoneLeftCoord = 588
+ZoneRightCoord = 1011
+ZoneTopCoord = 489
+ZoneBottomCoord = 1182
+
+[Zone:13]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184522
+ZoneLeftCoord = 135
+ZoneRightCoord = 771
+ZoneTopCoord = 1289
+ZoneBottomCoord = 1603
+
+[Zone:14]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184522
+ZoneLeftCoord = 773
+ZoneRightCoord = 1371
+ZoneTopCoord = 1291
+ZoneBottomCoord = 1599
+
+[Zone:15]
+ZoneType = PHOTOGRAPH
+ZoneDoc = 1003184522
+ZoneLeftCoord = 181
+ZoneRightCoord = 1379
+ZoneTopCoord = 324
+ZoneBottomCoord = 481
+
+[Zone:16]
+ZoneType = PHOTOGRAPH
+ZoneDoc = 1003184522
+ZoneLeftCoord = 205
+ZoneRightCoord = 592
+ZoneTopCoord = 481
+ZoneBottomCoord = 820
+
+[Zone:17]
+ZoneType = PHOTOGRAPH
+ZoneDoc = 1003184522
+ZoneLeftCoord = 191
+ZoneRightCoord = 586
+ZoneTopCoord = 904
+ZoneBottomCoord = 1238
+
+[Zone:18]
+ZoneType = PHOTOGRAPH
+ZoneDoc = 1003184522
+ZoneLeftCoord = 185
+ZoneRightCoord = 467
+ZoneTopCoord = 822
+ZoneBottomCoord = 904
+
+[Zone:19]
+ZoneType = PHOTOGRAPH
+ZoneDoc = 1003184522
+ZoneLeftCoord = 1013
+ZoneRightCoord = 1373
+ZoneTopCoord = 481
+ZoneBottomCoord = 1198
+
+[Zone:20]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184522
+ZoneLeftCoord = 616
+ZoneRightCoord = 1001
+ZoneTopCoord = 1231
+ZoneBottomCoord = 1273
+
+[Zone:21]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184522
+ZoneLeftCoord = 471
+ZoneRightCoord = 591
+ZoneTopCoord = 822
+ZoneBottomCoord = 899
+
+[Zone:22]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184382
+ZoneLeftCoord = 2797
+ZoneRightCoord = 3038
+ZoneTopCoord = 5633
+ZoneBottomCoord = 5674
+
+[Zone:23]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184382
+ZoneLeftCoord = 2605
+ZoneRightCoord = 3215
+ZoneTopCoord = 5674
+ZoneBottomCoord = 5740
+
+[Zone:24]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184382
+ZoneLeftCoord = 2609
+ZoneRightCoord = 2935
+ZoneTopCoord = 5746
+ZoneBottomCoord = 5781
+
+[Zone:25]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184422
+ZoneLeftCoord = 2151
+ZoneRightCoord = 2427
+ZoneTopCoord = 5175
+ZoneBottomCoord = 5210
+
+[Zone:26]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184422
+ZoneLeftCoord = 1991
+ZoneRightCoord = 2605
+ZoneTopCoord = 5215
+ZoneBottomCoord = 5594
+
+[Zone:27]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184332
+ZoneLeftCoord = 1391
+ZoneRightCoord = 1979
+ZoneTopCoord = 400
+ZoneBottomCoord = 529
+
+[Zone:28]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184332
+ZoneLeftCoord = 1383
+ZoneRightCoord = 1982
+ZoneTopCoord = 534
+ZoneBottomCoord = 733
+
+[Zone:29]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184332
+ZoneLeftCoord = 1506
+ZoneRightCoord = 1854
+ZoneTopCoord = 760
+ZoneBottomCoord = 808
+
+[Zone:30]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184332
+ZoneLeftCoord = 1385
+ZoneRightCoord = 1992
+ZoneTopCoord = 805
+ZoneBottomCoord = 1018
+
+[Zone:31]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184332
+ZoneLeftCoord = 1385
+ZoneRightCoord = 1987
+ZoneTopCoord = 1018
+ZoneBottomCoord = 2433
+
+[Zone:32]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184332
+ZoneLeftCoord = 1380
+ZoneRightCoord = 1982
+ZoneTopCoord = 3555
+ZoneBottomCoord = 6307
+
+[Zone:33]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184332
+ZoneLeftCoord = 1994
+ZoneRightCoord = 2606
+ZoneTopCoord = 351
+ZoneBottomCoord = 2957
+
+[Zone:34]
+ZoneType = PHOTOGRAPH
+ZoneDoc = 1003184332
+ZoneLeftCoord = 1396
+ZoneRightCoord = 1990
+ZoneTopCoord = 2470
+ZoneBottomCoord = 3450
+
+[Zone:35]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184332
+ZoneLeftCoord = 1369
+ZoneRightCoord = 1995
+ZoneTopCoord = 3453
+ZoneBottomCoord = 3529
+
+[Zone:36]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184492
+ZoneLeftCoord = 775
+ZoneRightCoord = 1373
+ZoneTopCoord = 3857
+ZoneBottomCoord = 4184
+
+[Zone:37]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184312
+ZoneLeftCoord = 148
+ZoneRightCoord = 768
+ZoneTopCoord = 1640
+ZoneBottomCoord = 4235
+
+[Zone:38]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184322
+ZoneLeftCoord = 776
+ZoneRightCoord = 1372
+ZoneTopCoord = 1635
+ZoneBottomCoord = 2454
+
+[Zone:39]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184462
+ZoneLeftCoord = 870
+ZoneRightCoord = 1265
+ZoneTopCoord = 2985
+ZoneBottomCoord = 3031
+
+[Zone:40]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184462
+ZoneLeftCoord = 777
+ZoneRightCoord = 1355
+ZoneTopCoord = 3033
+ZoneBottomCoord = 3303
+
+[Zone:41]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184372
+ZoneLeftCoord = 2805
+ZoneRightCoord = 3028
+ZoneTopCoord = 5402
+ZoneBottomCoord = 5436
+
+[Zone:42]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184372
+ZoneLeftCoord = 2613
+ZoneRightCoord = 3224
+ZoneTopCoord = 5436
+ZoneBottomCoord = 5571
+
+[Zone:43]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184372
+ZoneLeftCoord = 2616
+ZoneRightCoord = 3086
+ZoneTopCoord = 5571
+ZoneBottomCoord = 5606
+
+[Zone:44]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184392
+ZoneLeftCoord = 2698
+ZoneRightCoord = 3107
+ZoneTopCoord = 5813
+ZoneBottomCoord = 5857
+
+[Zone:45]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184392
+ZoneLeftCoord = 2609
+ZoneRightCoord = 3222
+ZoneTopCoord = 5855
+ZoneBottomCoord = 6276
+
+[Zone:46]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184512
+ZoneLeftCoord = 2620
+ZoneRightCoord = 3231
+ZoneTopCoord = 334
+ZoneBottomCoord = 3975
+
+[Zone:47]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184512
+ZoneLeftCoord = 3245
+ZoneRightCoord = 4472
+ZoneTopCoord = 334
+ZoneBottomCoord = 6290
+
+[Zone:48]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184362
+ZoneLeftCoord = 2712
+ZoneRightCoord = 3114
+ZoneTopCoord = 4985
+ZoneBottomCoord = 5023
+
+[Zone:49]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184362
+ZoneLeftCoord = 2616
+ZoneRightCoord = 3222
+ZoneTopCoord = 5025
+ZoneBottomCoord = 5365
+
+[Zone:50]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184342
+ZoneLeftCoord = 2644
+ZoneRightCoord = 3186
+ZoneTopCoord = 3996
+ZoneBottomCoord = 4038
+
+[Zone:51]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184342
+ZoneLeftCoord = 2613
+ZoneRightCoord = 3222
+ZoneTopCoord = 4036
+ZoneBottomCoord = 4463
+
+[Zone:52]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184452
+ZoneLeftCoord = 878
+ZoneRightCoord = 1277
+ZoneTopCoord = 2487
+ZoneBottomCoord = 2524
+
+[Zone:53]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184452
+ZoneLeftCoord = 781
+ZoneRightCoord = 1371
+ZoneTopCoord = 2528
+ZoneBottomCoord = 2944
+
+[Zone:54]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184402
+ZoneLeftCoord = 2007
+ZoneRightCoord = 2601
+ZoneTopCoord = 2967
+ZoneBottomCoord = 3037
+
+[Zone:55]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184402
+ZoneLeftCoord = 2015
+ZoneRightCoord = 2595
+ZoneTopCoord = 3055
+ZoneBottomCoord = 3176
+
+[Zone:56]
+ZoneType = ARTICLE_ZONE
+ZoneDoc = 1003184402
+ZoneLeftCoord = 2003
+ZoneRightCoord = 2593
+ZoneTopCoord = 3192
+ZoneBottomCoord = 4530
+

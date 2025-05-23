@@ -1,0 +1,99 @@
+[Document]
+Pages = 1
+PageThread = 3
+Zones = 10
+LastZoneID = 10
+SpecialDocumentFlag = 0
+DocumentID = 1003184522
+PageCollectionID = 8968492
+
+[Zone:1]
+ZoneType = ARTICLE_ZONE
+ZoneSequence = 1
+ZonePage = 3
+ZoneLeftCoord = 588
+ZoneRightCoord = 1011
+ZoneTopCoord = 489
+ZoneBottomCoord = 1182
+
+[Zone:2]
+ZoneType = ARTICLE_ZONE
+ZoneSequence = 2
+ZonePage = 3
+ZoneLeftCoord = 135
+ZoneRightCoord = 771
+ZoneTopCoord = 1289
+ZoneBottomCoord = 1603
+
+[Zone:3]
+ZoneType = ARTICLE_ZONE
+ZoneSequence = 3
+ZonePage = 3
+ZoneLeftCoord = 773
+ZoneRightCoord = 1371
+ZoneTopCoord = 1291
+ZoneBottomCoord = 1599
+
+[Zone:4]
+ZoneType = PHOTOGRAPH
+ZoneSequence = 4
+ZonePage = 3
+ZoneLeftCoord = 181
+ZoneRightCoord = 1379
+ZoneTopCoord = 324
+ZoneBottomCoord = 481
+
+[Zone:5]
+ZoneType = PHOTOGRAPH
+ZoneSequence = 5
+ZonePage = 3
+ZoneLeftCoord = 205
+ZoneRightCoord = 592
+ZoneTopCoord = 481
+ZoneBottomCoord = 820
+
+[Zone:6]
+ZoneType = PHOTOGRAPH
+ZoneSequence = 6
+ZonePage = 3
+ZoneLeftCoord = 191
+ZoneRightCoord = 586
+ZoneTopCoord = 904
+ZoneBottomCoord = 1238
+
+[Zone:7]
+ZoneType = PHOTOGRAPH
+ZoneSequence = 7
+ZonePage = 3
+ZoneLeftCoord = 185
+ZoneRightCoord = 467
+ZoneTopCoord = 822
+ZoneBottomCoord = 904
+
+[Zone:8]
+ZoneType = PHOTOGRAPH
+ZoneSequence = 8
+ZonePage = 3
+ZoneLeftCoord = 1013
+ZoneRightCoord = 1373
+ZoneTopCoord = 481
+ZoneBottomCoord = 1198
+
+[Zone:9]
+ZoneType = ARTICLE_ZONE
+ZoneSequence = 9
+ZonePage = 3
+ZoneLeftCoord = 616
+ZoneRightCoord = 1001
+ZoneTopCoord = 1231
+ZoneBottomCoord = 1273
+
+[Zone:10]
+ZoneType = ARTICLE_ZONE
+ZoneSequence = 10
+ZonePage = 3
+ZoneLeftCoord = 471
+ZoneRightCoord = 591
+ZoneTopCoord = 822
+ZoneBottomCoord = 899
+

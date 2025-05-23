@@ -1,0 +1,111 @@
+<RECORD>
+  <Version>Global_Schema_v4.0.xsd</Version>
+  <MinorVersion>8</MinorVersion>
+  <ParentInfo>
+    <PublicationID>28729</PublicationID>
+    <GroupingID GroupingDepth="1">6151029</GroupingID>
+  </ParentInfo>
+  <ObjectInfo>
+    <RecInfo>
+      <GlobalObjectID>493204600</GlobalObjectID>
+      <ObjectRevisions>
+        <ObjectRevision>
+          <RevisionNumber>1</RevisionNumber>
+          <InternalSource>HNP</InternalSource>
+          <UpdatedBy>eFeeds</UpdatedBy>
+          <UpdatedDate>20100705201950</UpdatedDate>
+          <Note NoteType="RawFilename">.HNP_BF_201005181145440000005954-mstar_68420_1914_20100430_0010.xml.gz.unc</Note>
+        </ObjectRevision>
+      </ObjectRevisions>
+      <CreatedDate>20100705201950</CreatedDate>
+      <CreatedBy>eFeeds</CreatedBy>
+      <LastLegacyUpdateTime>20060929141017</LastLegacyUpdateTime>
+    </RecInfo>
+    <DocInternalGrouping GroupType="PqXsearch">
+      <GroupName>mstar_68420_1914_20100430</GroupName>
+    </DocInternalGrouping>
+    <DocInternalGrouping GroupType="PqDocmfg">
+      <GroupName>PQID_HNP</GroupName>
+    </DocInternalGrouping>
+    <ObjectType ObjectTypeOrigin="Publisher">front_page</ObjectType>
+    <ObjectType ObjectTypeOrigin="mstar">Front Page/Cover Story</ObjectType>
+    <ObjectRollupType>Articles - All Types</ObjectRollupType>
+    <Title>Rev. J. L. Jones Slugs Cemetery Color Line</Title>
+    <SubTitle>Fred M. Farwell Dodging Equal Rights Bill; Passed By Hon. Ed D. Green By Refusing Colored Citizens Who Helped to ... Oakwoods Cemetery Many Years Ago the Use of Chapel Vaults and Crematory Which Their Money Helped to ... When Chicago Was in Her Infancy--Farwell Defamed ... Name of the Immortal Abe Lincoln DR. JONES FLAYS RASCAL Tells Him a Place Like His Has no Beauty When a Citizen&apos;s Rights Are Ignored--He Would Rather ... Be Buried in His Self-Styled Beauty Spot--This Man ... Christianity. Says the Doctor--If All Liberty Loving Chicagoans Would Demand Respect from Such Men Our City Would be Equal to London, Paris or Berlin--here Is a Move on Foot, It Is Said, to Remove Mr. Farwell from His Present Position as President DR. JENKINS LLOYD JONES WHO DENOUNCED MR. FARWELL</SubTitle>
+    <NumericDate>19140117</NumericDate>
+    <StartDate>19140117</StartDate>
+    <EndDate>19140117</EndDate>
+    <AlphaDate>Jan 17, 1914</AlphaDate>
+    <PageCount>1</PageCount>
+    <Language>
+      <RawLang>English</RawLang>
+    </Language>
+    <Language IsPrimary="true">
+      <ISO>
+        <ISOCode>ENG</ISOCode>
+        <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+      </ISO>
+    </Language>
+    <Copyright>
+      <CopyrightData>Copyright Real Times, Inc. Jan 17, 1914</CopyrightData>
+    </Copyright>
+    <PrintLocation>
+      <StartPage>1</StartPage>
+      <Pagination>1</Pagination>
+    </PrintLocation>
+    <ObjectIDs>
+      <ObjectID IDOrigin="HNP" IDType="DOCID">1003183892</ObjectID>
+      <ObjectID IDOrigin="HNP" IDType="PCID">8968492</ObjectID>
+      <ObjectID IDOrigin="HNP" IDType="PMID">68420</ObjectID>
+    </ObjectIDs>
+    <TextInfo>
+      <HiddenText HTMLContent="true" Sid="HNP" Date="20060929" Time="140011"><![CDATA[
+          <html>
+            <head>
+              <meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/>
+              <title/>
+            </head>
+            <body>
+              <p>
+1 fl ^mm * : ' " - ~- ^-- ~- ^^- ^
+</p>
+              <p>
+Fred 1. Farwell
+</p>
+              <p>
+By Refusing Colored Citizens Who
+</p>
+              <p>
+DR. JONES FLAYS RASCAL f
+</p>
+              <p>
+Tells Him a Place Like His Has no
+</p>
+              <p>
+DR. JENKINS LLOYD JONES WHO RENOUNCED MR. FARWELL. f
+</p>
+              <p>
+action operating "*;s is the world s lie natives of the
+</p>
+            </body>
+          </html>
+]]></HiddenText>
+    </TextInfo>
+  </ObjectInfo>
+  <LegacyData>
+    <PQ>
+      <docdt>
+        <manuhists>
+          <manuhist>20060929 141017 SIS ftl_20060929_14101700_2_2 PQ16.8 ADM</manuhist>
+          <manuhist>20100507 133952 SIS mstar_68420_1914_20100430_9522_9522 MstarTrans $Revision 2.3 $</manuhist>
+        </manuhists>
+        <doc-create>20060929</doc-create>
+        <doc-modify>20060929</doc-modify>
+      </docdt>
+      <derdt>
+        <word-count>54</word-count>
+        <dmlversion>PQ6.18/a</dmlversion>
+      </derdt>
+    </PQ>
+  </LegacyData>
+</RECORD>

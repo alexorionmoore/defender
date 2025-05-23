@@ -1,0 +1,114 @@
+<RECORD>
+  <Version>Global_Schema_v4.0.xsd</Version>
+  <MinorVersion>8</MinorVersion>
+  <ParentInfo>
+    <PublicationID>28729</PublicationID>
+    <GroupingID GroupingDepth="1">6151029</GroupingID>
+  </ParentInfo>
+  <ObjectInfo>
+    <RecInfo>
+      <GlobalObjectID>493288656</GlobalObjectID>
+      <ObjectRevisions>
+        <ObjectRevision>
+          <RevisionNumber>1</RevisionNumber>
+          <InternalSource>HNP</InternalSource>
+          <UpdatedBy>eFeeds</UpdatedBy>
+          <UpdatedDate>20100705202740</UpdatedDate>
+          <Note NoteType="RawFilename">.HNP_BF_201005181145440000005954-mstar_68420_1914_20100430_0010.xml.gz.unc</Note>
+        </ObjectRevision>
+      </ObjectRevisions>
+      <CreatedDate>20100705202740</CreatedDate>
+      <CreatedBy>eFeeds</CreatedBy>
+      <LastLegacyUpdateTime>20060929141022</LastLegacyUpdateTime>
+    </RecInfo>
+    <DocInternalGrouping GroupType="PqXsearch">
+      <GroupName>mstar_68420_1914_20100430</GroupName>
+    </DocInternalGrouping>
+    <DocInternalGrouping GroupType="PqDocmfg">
+      <GroupName>PQID_HNP</GroupName>
+    </DocInternalGrouping>
+    <ObjectType ObjectTypeOrigin="Publisher">editorial_article</ObjectType>
+    <ObjectType ObjectTypeOrigin="mstar">Editorial</ObjectType>
+    <ObjectType ObjectTypeOrigin="mstar">Commentary</ObjectType>
+    <ObjectRollupType>Articles - All Types</ObjectRollupType>
+    <Title>N. A. A. C. P. MEETING</Title>
+    <NumericDate>19140117</NumericDate>
+    <StartDate>19140117</StartDate>
+    <EndDate>19140117</EndDate>
+    <AlphaDate>Jan 17, 1914</AlphaDate>
+    <PageCount>1</PageCount>
+    <Language>
+      <RawLang>English</RawLang>
+    </Language>
+    <Language IsPrimary="true">
+      <ISO>
+        <ISOCode>ENG</ISOCode>
+        <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+      </ISO>
+    </Language>
+    <Copyright>
+      <CopyrightData>Copyright Real Times, Inc. Jan 17, 1914</CopyrightData>
+    </Copyright>
+    <PrintLocation>
+      <StartPage>4</StartPage>
+      <Pagination>4</Pagination>
+    </PrintLocation>
+    <ObjectIDs>
+      <ObjectID IDOrigin="HNP" IDType="DOCID">1003184622</ObjectID>
+      <ObjectID IDOrigin="HNP" IDType="PCID">8968492</ObjectID>
+      <ObjectID IDOrigin="HNP" IDType="PMID">68420</ObjectID>
+    </ObjectIDs>
+    <Abstract WordCount="46" AbstractType="Short" Sid="HNP" Date="20060929" Time="140015">
+      <AbsText HTMLContent="true"><![CDATA[
+          <html>
+            <head>
+              <meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/>
+              <title/>
+            </head>
+            <body>
+              <p>
+The National Association for the Advancement of Colored People held its annual meeting last Sunday evening at Abraham Lincoln Center, at which time, beside the election of officers to replace those whose terms had expired, the reading of the reports of the various committees and...
+</p>
+            </body>
+          </html>
+]]></AbsText>
+    </Abstract>
+    <TextInfo>
+      <HiddenText HTMLContent="true" Sid="HNP" Date="20060929" Time="140015"><![CDATA[
+          <html>
+            <head>
+              <meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/>
+              <title/>
+            </head>
+            <body>
+              <p>
+N. A. A. C. P. MEETING.
+</p>
+              <p>
+The National Association for the Advancement of Colored People held its annual meeting last Sunday evening at Abraham Lincoln Center, at which time, beside the election or officers to replace those whose terms had i-, the reading of the reports or the various committees and
+</p>
+              <p>
+other  ,     .~....-~~ speeches were made by notable visitors- I Tor. .1. ']:. Siiingarn of New York and Roger Baldwin of St. Louis Prof Spinsarn. who is chairman ol the board or directors of this association, is intensely interested in the work, is thoroughly conversant with every angle ol the problem, a problem which he avers is more a white man s than a 'Negro's, and he is an orator who drives home his points with telling effect. The administration at Washington he held up to the light and showed clearly their policy of discrimination. Florida's recent law preventing white teachers from teaching colored children was decried, as was the disfranchisement of '.hhp.Uimi colored men ill the South. All along tin: line were citations to prove that either the colored or the white race needed another emancipation. And what had he to offer as a solution? A battle; yes, a  royal, not with bullets but with brains. In every city there should be a branch of the national organization whose duty it would be to light discrimination whenever and wherever round, keep the good the race is doing constantly in the foreground, give allegiance to the party in office who will best represent the race. I'ul a colored  nan in public office wherever pos- 1 sible. The vast audience was  in accord with all of these sentiments, but his assertion !hat (lie colored people have been living under wrong teachings, that they have been following a leader for twenty-live years whose gospel was hard work and the accumulating of money, at the cost of citizenship, did not leave a very good taste in the mouths of his hearers, for he was speaking to an intelligent audience that knew The almighty dollar ruled the world, and knew that, under these same teachings, the colored people in  years hail accumulated $1.0U0,(    , worth of property. If so much can be accomplished under so called wrong teaching!-, what wonders are we capable of performing under right teachings? The Meld is large, we all cannot think alike. The race needs a Washington, a DulSois, and many others like them. The thing that counts in this world is results, and the thing the race most needs is loyalty within its ranks and friends without its ranks. Roger Baldwin, the one man in St. Louis who really has been doing things, looked at the situation from a slightly different viewpoint. The first thing to be gained was the confidence and respect of the white people, and this could not be accomplished by threats or bullying. The accumulation of wealth and honest, upright living was advocated as a standard by which the Negro would accomplish much to be desired. .Mr. Baldwin proved plainly that without wealth no group ol' people could either demand or hope for lull citizenship. That so well had the Negroes followed the gospel of work and accumulation or money that many of the seeming increased prejudices wen: simply the natural resistance of white people to prevent the Negro from securing the things that would naturally follow his steady advance along all Hues. Mr. Baldwin declared that there was no resistance to the Negro who lived 50 feet in the rear, but to the Negro who lived 50 feet on either side. That the segregation laws in all these cities were  that the Negro's rapid progress was alarming, and  measures were being attempted merely to impede the inevitable- the man who owns the land will have something to say as to the ruling- of that land and that resolutions will not pay monthly interest on notes. .Mr. Baldwin is working toward the same end as Prof. Siiingarn. lie believes that co-operation of different groups of people will accomplish more than a distinct group battling against all others. If the professor had added to his re- ' marks that since the colored people '.. have accumulated some money the new abolition instead of looking upon this as a disadvantage would consider it a valuable asset and give full measure of credit to whoever inaugurated this accumulating system,' remembering the Lord's message to his disciples, ".My Father worked and I am come among you to work also." The thought that should be uppermost in the minds of all is not to destroy but to build up. Not pointing out the faults of others, but their, virtues; not to imagine that all whose ideas differ from ours are traitors and must be destroyed before we can advance, but "let us dip down our buckets where   ! are," and each individual of the race give the best that is the him whenever and wherever he can.
+</p>
+            </body>
+          </html>
+]]></HiddenText>
+    </TextInfo>
+  </ObjectInfo>
+  <LegacyData>
+    <PQ>
+      <docdt>
+        <manuhists>
+          <manuhist>20060929 141022 SIS ftl_20060929_14101700_75_75 PQ16.8 ADM</manuhist>
+          <manuhist>20100507 133953 SIS mstar_68420_1914_20100430_9595_9595 MstarTrans $Revision 2.3 $</manuhist>
+        </manuhists>
+        <doc-create>20060929</doc-create>
+        <doc-modify>20060929</doc-modify>
+      </docdt>
+      <derdt>
+        <word-count>829</word-count>
+        <dmlversion>PQ6.18/a</dmlversion>
+      </derdt>
+    </PQ>
+  </LegacyData>
+</RECORD>

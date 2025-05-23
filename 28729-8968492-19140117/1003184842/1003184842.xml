@@ -1,0 +1,114 @@
+<RECORD>
+  <Version>Global_Schema_v4.0.xsd</Version>
+  <MinorVersion>8</MinorVersion>
+  <ParentInfo>
+    <PublicationID>28729</PublicationID>
+    <GroupingID GroupingDepth="1">6151029</GroupingID>
+  </ParentInfo>
+  <ObjectInfo>
+    <RecInfo>
+      <GlobalObjectID>493257849</GlobalObjectID>
+      <ObjectRevisions>
+        <ObjectRevision>
+          <RevisionNumber>1</RevisionNumber>
+          <InternalSource>HNP</InternalSource>
+          <UpdatedBy>eFeeds</UpdatedBy>
+          <UpdatedDate>20100705202451</UpdatedDate>
+          <Note NoteType="RawFilename">.HNP_BF_201005181145440000005954-mstar_68420_1914_20100430_0010.xml.gz.unc</Note>
+        </ObjectRevision>
+      </ObjectRevisions>
+      <CreatedDate>20100705202451</CreatedDate>
+      <CreatedBy>eFeeds</CreatedBy>
+      <LastLegacyUpdateTime>20060929141030</LastLegacyUpdateTime>
+    </RecInfo>
+    <DocInternalGrouping GroupType="PqXsearch">
+      <GroupName>mstar_68420_1914_20100430</GroupName>
+    </DocInternalGrouping>
+    <DocInternalGrouping GroupType="PqDocmfg">
+      <GroupName>PQID_HNP</GroupName>
+    </DocInternalGrouping>
+    <ObjectType ObjectTypeOrigin="Publisher">article</ObjectType>
+    <ObjectType ObjectTypeOrigin="mstar">Feature</ObjectType>
+    <ObjectType ObjectTypeOrigin="mstar">Article</ObjectType>
+    <ObjectRollupType>Articles - All Types</ObjectRollupType>
+    <Title>GAUDEAMUS CLUB</Title>
+    <NumericDate>19140117</NumericDate>
+    <StartDate>19140117</StartDate>
+    <EndDate>19140117</EndDate>
+    <AlphaDate>Jan 17, 1914</AlphaDate>
+    <PageCount>1</PageCount>
+    <Language>
+      <RawLang>English</RawLang>
+    </Language>
+    <Language IsPrimary="true">
+      <ISO>
+        <ISOCode>ENG</ISOCode>
+        <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+      </ISO>
+    </Language>
+    <Copyright>
+      <CopyrightData>Copyright Real Times, Inc. Jan 17, 1914</CopyrightData>
+    </Copyright>
+    <PrintLocation>
+      <StartPage>5</StartPage>
+      <Pagination>5</Pagination>
+    </PrintLocation>
+    <ObjectIDs>
+      <ObjectID IDOrigin="HNP" IDType="DOCID">1003184842</ObjectID>
+      <ObjectID IDOrigin="HNP" IDType="PCID">8968492</ObjectID>
+      <ObjectID IDOrigin="HNP" IDType="PMID">68420</ObjectID>
+    </ObjectIDs>
+    <Contributors>
+      <Contributor ContribRole="Author" ContribOrder="1">
+        <FirstName IsNormalized="true" ContribOrigin="AuthorNormalization">S</FirstName>
+        <PersonName IsNormalized="true" ContribOrigin="AuthorNormalization">S L Adams</PersonName>
+        <LastName IsNormalized="true" ContribOrigin="AuthorNormalization">Adams</LastName>
+        <MiddleName IsNormalized="true" ContribOrigin="AuthorNormalization">L</MiddleName>
+        <OriginalForm ContribOrigin="pqauth">S L Adams</OriginalForm>
+      </Contributor>
+      <Contributor ContribRole="Author" ContribOrder="2">
+        <FirstName IsNormalized="true" ContribOrigin="AuthorNormalization">B</FirstName>
+        <PersonName IsNormalized="true" ContribOrigin="AuthorNormalization">B Harpkins</PersonName>
+        <LastName IsNormalized="true" ContribOrigin="AuthorNormalization">Harpkins</LastName>
+        <OriginalForm ContribOrigin="pqauth">B Harpkins</OriginalForm>
+      </Contributor>
+    </Contributors>
+    <TextInfo>
+      <HiddenText HTMLContent="true" Sid="HNP" Date="20060929" Time="140016"><![CDATA[
+          <html>
+            <head>
+              <meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/>
+              <title/>
+            </head>
+            <body>
+              <p>
+GAUDEAMUS CLUB.
+</p>
+              <p>
+The club met at 5219 Dearborn street January 12, Mrs. Ruoirer the hostess. The meeting was a business meeting, so afte.- quite a bit of business was disposed of thr; president spoke at length on the Suffrage         . l Jach member promised to register on February !i. .Miss Oiloland also spoke very interestingly on suffrage and then Dr. Lewis, dentist, was introduced, lie read a splendid paper on charity. The club felt much  alter hearing the     .r. The clr.b will meet for its embroidery meeting on January 19 at Airs. Turner's, 4513 Federal street, at 1 n. in. -
+</p>
+              <p>
+S. I.. Adams, president; [J. Manikins, editor.
+</p>
+            </body>
+          </html>
+]]></HiddenText>
+    </TextInfo>
+  </ObjectInfo>
+  <LegacyData>
+    <PQ>
+      <docdt>
+        <manuhists>
+          <manuhist>20060929 141030 SIS ftl_20060929_14101700_97_97 PQ16.8 ADM</manuhist>
+          <manuhist>20100507 133953 SIS mstar_68420_1914_20100430_9617_9617 MstarTrans $Revision 2.3 $</manuhist>
+        </manuhists>
+        <doc-create>20060929</doc-create>
+        <doc-modify>20060929</doc-modify>
+      </docdt>
+      <derdt>
+        <word-count>108</word-count>
+        <dmlversion>PQ6.18/a</dmlversion>
+      </derdt>
+    </PQ>
+  </LegacyData>
+</RECORD>

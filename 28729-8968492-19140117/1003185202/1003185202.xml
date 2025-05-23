@@ -1,0 +1,123 @@
+<RECORD>
+  <Version>Global_Schema_v4.0.xsd</Version>
+  <MinorVersion>8</MinorVersion>
+  <ParentInfo>
+    <PublicationID>28729</PublicationID>
+    <GroupingID GroupingDepth="1">6151029</GroupingID>
+  </ParentInfo>
+  <ObjectInfo>
+    <RecInfo>
+      <GlobalObjectID>493289459</GlobalObjectID>
+      <ObjectRevisions>
+        <ObjectRevision>
+          <RevisionNumber>1</RevisionNumber>
+          <InternalSource>HNP</InternalSource>
+          <UpdatedBy>eFeeds</UpdatedBy>
+          <UpdatedDate>20100705202744</UpdatedDate>
+          <Note NoteType="RawFilename">.HNP_BF_201005181145440000005954-mstar_68420_1914_20100430_0010.xml.gz.unc</Note>
+        </ObjectRevision>
+      </ObjectRevisions>
+      <CreatedDate>20100705202744</CreatedDate>
+      <CreatedBy>eFeeds</CreatedBy>
+      <LastLegacyUpdateTime>20060929141033</LastLegacyUpdateTime>
+    </RecInfo>
+    <DocInternalGrouping GroupType="PqXsearch">
+      <GroupName>mstar_68420_1914_20100430</GroupName>
+    </DocInternalGrouping>
+    <DocInternalGrouping GroupType="PqDocmfg">
+      <GroupName>PQID_HNP</GroupName>
+    </DocInternalGrouping>
+    <ObjectType ObjectTypeOrigin="Publisher">article</ObjectType>
+    <ObjectType ObjectTypeOrigin="mstar">Feature</ObjectType>
+    <ObjectType ObjectTypeOrigin="mstar">Article</ObjectType>
+    <ObjectRollupType>Articles - All Types</ObjectRollupType>
+    <Title>LOS ANGELES SOCIETY</Title>
+    <NumericDate>19140117</NumericDate>
+    <StartDate>19140117</StartDate>
+    <EndDate>19140117</EndDate>
+    <AlphaDate>Jan 17, 1914</AlphaDate>
+    <PageCount>1</PageCount>
+    <Language>
+      <RawLang>English</RawLang>
+    </Language>
+    <Language IsPrimary="true">
+      <ISO>
+        <ISOCode>ENG</ISOCode>
+        <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+      </ISO>
+    </Language>
+    <Copyright>
+      <CopyrightData>Copyright Real Times, Inc. Jan 17, 1914</CopyrightData>
+    </Copyright>
+    <PrintLocation>
+      <StartPage>6</StartPage>
+      <Pagination>6</Pagination>
+    </PrintLocation>
+    <ObjectIDs>
+      <ObjectID IDOrigin="HNP" IDType="DOCID">1003185202</ObjectID>
+      <ObjectID IDOrigin="HNP" IDType="PCID">8968492</ObjectID>
+      <ObjectID IDOrigin="HNP" IDType="PMID">68420</ObjectID>
+    </ObjectIDs>
+    <DateLine>Los Angeles, Cal., Jan. 16.</DateLine>
+    <Contributors>
+      <Contributor ContribRole="Author" ContribOrder="1">
+        <OriginalForm ContribOrigin="pqauth">G A Lewis Special to The Chicago Defender</OriginalForm>
+      </Contributor>
+    </Contributors>
+    <Abstract WordCount="33" AbstractType="Short" Sid="HNP" Date="20060929" Time="140017">
+      <AbsText HTMLContent="true"><![CDATA[
+          <html>
+            <head>
+              <meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/>
+              <title/>
+            </head>
+            <body>
+              <p>
+Los Angeles, Cal., Jan. 16.--Conditions about Los Angeles have now begun to improve greatly. The holidays are over and we sincerely hope for a better future than we have had a past.
+</p>
+            </body>
+          </html>
+]]></AbsText>
+    </Abstract>
+    <TextInfo>
+      <HiddenText HTMLContent="true" Sid="HNP" Date="20060929" Time="140017"><![CDATA[
+          <html>
+            <head>
+              <meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/>
+              <title/>
+            </head>
+            <body>
+              <p>
+LOS ANGELES SOCIETY.
+</p>
+              <p>
+G. A. Lewis. Special to Tin; Chicago Defender.)
+</p>
+              <p>
+I. os Angeles. Cal., .Ian. 10. - Conditions; about Los Angeles have now begun to improve! greatly. The holidays HP! over and we sincerely hope for a better future [lian wo have had u past.
+</p>
+              <p>
+.Mr. D. II. Lti.sk, commissary , has taken charge of the dining cars operated on the Train l)e Luxe between San l-' and Now Orleans, and has put finite a few of his old men back to work. The Salt Lake is expected to put oil a new train soon. The Santa I'e is doing tilt' usual  of business,      .sections across the continent twice a week. The Hotel Darby's head waii'-r, Mr. Dan Adams, with his second head. Mr. A. 1). Ill-owning, i.s getting his seasons crew together. To the great surprise of many, death came to Mr. Al Franklins residence between (I and 7 on Ceres avenue. .Mr. Franklin was one of the exception!- in his class. He has made a  for hi? race in Los Angeles to follow. Mr. Franklin came to l.os Angeles just a few years ago from 101 1'as.f. Texas, and was employed as dining car waiter by the Salt Lake railroad company. Since that time he has operated very successfully the only up-todate colored pool room in Los Angeles at one time, and also owned a  louring car which .~ tood in front of his place For hire. Me leaves a wife, mother and several brothers to mourn the loss of their beloved one. Mr. A. U. Russell, who has been chief on Diner TOO, S. ]'. L. A. S. L. railroad company, was relieved by Chief .1. Massie. Mr. Mass:-: is one of the old reliable chiefs of site Waha; h railroad company. Mr. Russell is a rentier of the Defender, and .Mr. Massie says he will take il up where Chief. Russell loft off. lie knows what the Defender is. Mr. Hill sends word to his old "Chi" friends to look oul for him 'his summer if nothing happens. Mr. Hill is very comical in his . Miss Sarah darner of Lake Forest, 111., who recently came to California and made her first stop in I'asadena. Cal.. has since that time found that l.os Angeles iu the best place and i.s now living here. Miss I2sltr Norwood and .Miss Ester Siuackiiu. both C'hicagoaiis, ure still in I'asadena. Miss earner is expecting lo entertain Miss Norwood and Miss Smackuin in l.os Angeles soon. Anyone wishing to subscribe for the Defender in l.os Angr.lfs call Main -12S7: ask For CS. A. Lewis. U he is not there, leave order. If any papers are left over they will ue found at the Pullman barber shop, next door to the Pullman Social Club, where you will find r.ll the boys. Mr. Campbell, proprietor of the shop; also Mr. Morris.
+</p>
+            </body>
+          </html>
+]]></HiddenText>
+    </TextInfo>
+  </ObjectInfo>
+  <LegacyData>
+    <PQ>
+      <docdt>
+        <manuhists>
+          <manuhist>20060929 141033 SIS ftl_20060929_14101700_133_133 PQ16.8 ADM</manuhist>
+          <manuhist>20100507 133954 SIS mstar_68420_1914_20100430_9653_9653 MstarTrans $Revision 2.3 $</manuhist>
+        </manuhists>
+        <doc-create>20060929</doc-create>
+        <doc-modify>20060929</doc-modify>
+      </docdt>
+      <derdt>
+        <word-count>479</word-count>
+        <dmlversion>PQ6.18/a</dmlversion>
+      </derdt>
+    </PQ>
+  </LegacyData>
+</RECORD>
